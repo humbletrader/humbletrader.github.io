@@ -13,18 +13,27 @@ Personal information
 Work experience
 ===================================
 
+|Dates(from-to)|10/2017-present|
+|--------------|---------------|
+|Employer| Adswizz|
+|Business|Audio Advertising|
+|Position held| Senior Big Data Developer|
+|Main activities and responsabilities| blah |
+|Technologies used| Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming|
+
+
 -----------------------------------------
-  **•** Dates (from – to)                         09/2016 – present
+  Dates (from – to)                         09/2016 – present
                                                   
                                                   *(Effective number of months worked on the project: 4)*
 
-  **•** Name and address of employer              Central Europe Technologies
+  Name and address of employer              Central Europe Technologies
 
-  **•** Type of business or sector                IT Services
+  Type of business or sector                IT Services
 
-  **•** Occupation or position held               **Project Manager **
+  Occupation or position held               **Project Manager **
 
-  **•** Main activities and responsibilities      > **Project \#1:** Homebank Backend *(Client: AlphaCredit Belgium): *
+  activities and responsibilities      > **Project \#1:** Homebank Backend *(Client: AlphaCredit Belgium): *
                                                   >
                                                   > For the Homebank project we have developed the backend SOAP services consumed by a Liferay application.
                                                   >
