@@ -1,0 +1,926 @@
+[cols="",]
+|===============================================
+a|
+[[euro]]European
+
+curriculum vitae
+
+format
+
+image:media/image1.png[image,width=37,height=26]
+
+|===============================================
+
+[cols="",]
+|====================
+|Personal information
+|====================
+
+[cols=",,",]
+|===========================================
+|Name | |*BALAN Dragos*
+|Address | |*Bucharest, sos. Berceni, nr. 8*
+|Telephone | |*+40 742038765*
+|Fax | |
+|E-mail | |*dragos.balan@gmail.com*
+|===========================================
+
+[cols=",,",]
+|=======================
+|Nationality | |Romanian
+|=======================
+
+[cols=",,",]
+|===========================
+|Date of birth | |10/08/1976
+|===========================
+
+[cols=",,",]
+|=============================
+|POSITION | |*Project Manager*
+|=============================
+
+[cols="",]
+|===============
+|Work experience
+|===============
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+09/2016 – present
+
+_(Effective number of months worked on the project: 4)_
+
+|*•* Name and address of employer | |Central Europe Technologies
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Project Manager *
+
+|*•* Main activities and responsibilities | a|
+_______________________________________________________________________________________________________
+*Project #1:* Homebank Backend _(Client: AlphaCredit Belgium): _
+
+For the Homebank project we have developed the backend SOAP services
+consumed by a Liferay application.
+
+*Main activities and responsibilities:*
+_______________________________________________________________________________________________________
+
+* __________________________________________________________________________________________________________________________________________________________________
+Supervision of the JAVA teams to deliver in scope, on time and within
+budget always keeping in mind the high quality standards imposed by
+INTRASOFT International.
+__________________________________________________________________________________________________________________________________________________________________
+* ____________________________________________________________________________________________________________
+Managing the development and implementation of the project in accordance
+with the identified business needs,
+____________________________________________________________________________________________________________
+* _______________________________________________________________________________________________________________________
+Acquiring and utilizing the necessary resources and skills, within
+agreed parameters of cost, time-scales, and quality;
+_______________________________________________________________________________________________________________________
+* __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Give proposals for project strategies, planning, definition of tasks and
+deliverables, review of project deliverables, quality control, risk
+analysis and management, status reports, problem reporting and
+management systems, follow up and organisation
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+* ______________________________________________________________
+Participate in functional working groups and progress meetings
+______________________________________________________________
+* ___________________________________________________________________________________________________
+Estimate costs, time-scales and resource requirements for the successful
+completion of the project.
+___________________________________________________________________________________________________
+* __________________________________________________________________________________________________________________________
+Prepare and maintain project and quality plans and track activities
+against the plan, provide regular and accurate reports
+__________________________________________________________________________________________________________________________
+* _______________________________________________________________________________________________________________________________________________________________________________
+Monitor budget, time-scales and resources used, and take action where
+these deviate from agreed tolerances. Ensure that delivered systems are
+implemented within these criteria
+_______________________________________________________________________________________________________________________________________________________________________________
+* ________________________________________________________________________________________________________
+Manage the change control procedure gaining agreement for revisions to
+the project from project sponsors
+________________________________________________________________________________________________________
+* __________________________________________________________________________________________________________________________________________________
+Provide effective leadership for the project group ensuring that group
+members are motivated and constantly developing their skills and
+experience
+__________________________________________________________________________________________________________________________________________________
+
+____________________________________________________________________________________________________________________________________________________
+*Technologies and methodologies used:*
+
+Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web
+Services; XML., JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application
+Server
+____________________________________________________________________________________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+04/2013 – 09/2016
+
+_(Effective number of months worked on the project: 41)_
+
+|*•* Name and address of employer | |INTRASOFT International SA
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Technical Project Manager *
+
+|*•* Main activities and responsibilities | a|
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project #2:* SDMX Tools Maintenance (under STIS II & STIS III FWCs)
+_(Client: EUROSTAT): _
+
+The contract is hosting several projects for the Analysis, Development,
+Enhancement and Maintenance of the SDMX Reference Infrastructure and the
+related suite of SDMX-Tools, developed in the past and based on the
+“SDMX 2.0" and "SDMX-2.1" standards.
+
+The tools are promoted by EUROSTAT to the Member States and used in
+order to automate the periodic exchanges of statistical data between the
+Member States and EUROSTAT.
+
+*Main activities and responsibilities:*
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* ___________________________________________________________________________________________________________________________________________________________________________________________________________________
+Supervision of the .NET and JAVA teams located in Stuttgart, Bucharest
+and Luxembourg to deliver in scope, on time, in budget always keeping in
+mind the high quality standards imposed by INTRASOFT International.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+* ____________________________________________________________________________________________________________
+Managing the development and implementation of the project in accordance
+with the identified business needs,
+____________________________________________________________________________________________________________
+* ______________________________________________________________________________________________________________________
+Acquiring and utilizing the necessary resources and skills, within
+agreed parameters of cost, timescales, and quality;
+______________________________________________________________________________________________________________________
+* __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Give proposals for project strategies, planning, definition of tasks and
+deliverables, review of project deliverables, quality control, risk
+analysis and management, status reports, problem reporting and
+management systems, follow up and organisation
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+* ______________________________________________________________
+Participate in functional working groups and progress meetings
+______________________________________________________________
+* ___________________________________________________________________________________________________
+Estimate costs, time-scales and resource requirements for the successful
+completion of the project.
+___________________________________________________________________________________________________
+* __________________________________________________________________________________________________________________________
+Prepare and maintain project and quality plans and track activities
+against the plan, provide regular and accurate reports
+__________________________________________________________________________________________________________________________
+* ______________________________________________________________________________________________________________________________________________________________________________
+Monitor costs, time-scales and resources used, and take action where
+these deviate from agreed tolerances. Ensure that delivered systems are
+implemented within these criteria
+______________________________________________________________________________________________________________________________________________________________________________
+* ________________________________________________________________________________________________________
+Manage the change control procedure gaining agreement for revisions to
+the project from project sponsors
+________________________________________________________________________________________________________
+* __________________________________________________________________________________________________________________________________________________
+Provide effective leadership for the project group ensuring that group
+members are motivated and constantly developing their skills and
+experience
+__________________________________________________________________________________________________________________________________________________
+
+___________________________________________________________________________________________________________________________________________________________
+*Technologies and methodologies used:*
+
+Agile, MS Project, Jira, Bamboo, Git, Stash, REST; SDMX 2.0; SDMX 2.1;
+Java 1.5; HTML; JavaScript; Web Services; Spring Framework; XML., MS
+Windows, CentOS
+___________________________________________________________________________________________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+06/2012 – 03/2013
+
+_(Effective number of months worked on the project: 10)_
+
+|*•* Name and address of employer | |INTRASOFT International SA
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Senior Analyst-Programmer *
+
+|*•* Main activities and responsibilities | a|
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#3:* ICISNET CUSTOMS (V.601108) _(Client: Ministry of Finance of
+Greece (KTP)): _
+
+ICISnet is a modern customs system for Greek customs implementing EU and
+national regulations. Its scope is to fully cover customs officers’
+needs as well as traders and / or citizens who are dealing with customs
+era. The system interfaces with external systems either EU or National
+ones applying safety regulations imposed by EU and / or Greek
+authorities and laws. It's developed through 18 modules/applications
+which cover every activity, transaction, operation of Greek customs. It
+is a centralised system developed with the most recent technologies and
+methodologies. The ICISnet system is related to the implementation of EU
+Decisions and Directives and is operational on a 24/7 basis. ICISNET is
+considered to be a high volume data system as the number of users is
+2,000 (long-term the system will be used from 10,000 users).
+
+*Main activities and responsibilities:*
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* _________________________________
+Maintain the existing application
+_________________________________
+* _____________________________________________________
+Ensuring the correct application of Agile principles.
+_____________________________________________________
+
+________________________________________________________________________________________________________________________________________________________
+*Technologies and methodologies used:*
+
+Agile, Spring Webflow; Weblogic Server 10.3; JEE (Java Platform,
+Enterprise Edition), Spring Integration, JMS, SOAP web services, Arch
+Linux, MS Windows
+________________________________________________________________________________________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+10/2010 – 05/2012
+
+_(Effective number of months worked on the project: 20)_
+
+|*•* Name and address of employer | |INTRASOFT International SA
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Deputy Project Manager*
+
+|*•* Main activities and responsibilities | a|
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#4:* OHIM-SMS _(Client: Office for Harmonization in the Internal
+Market - OHIM):_
+
+The project concerned the provision of corrective, adaptive and
+preventive maintenance of software relating to the Office’s core
+business information systems for trademark and design registration.
+These systems cover the complete life-cycle and business process of a
+Community Trade Mark or Registered Community Design such as services for
+examination, opposition and cancellation, payment, communication between
+customer and the Office and access to specific services, e.g.
+classification tools.
+
+*Main activities and responsibilities:*
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* ___________________________________________________________________________________________________________________________________________________________________________________________
+Coordinated the team located in Bucharest (approximately 10-15 people)
+in maintaining and developing a set of 10 applications for the Office of
+Harmonization in the Internal Market (OHIM)
+___________________________________________________________________________________________________________________________________________________________________________________________
+* Managing the development and implementation of the project in
+accordance with the identified business needs,
+* Acquiring and utilizing the necessary resources and skills, within
+agreed parameters of cost, timescales, and quality;
+* Give proposals for project strategies, planning, definition of tasks
+and deliverables, review of project deliverables, quality control, risk
+analysis and management, status reports, problem reporting and
+management systems, follow up and organisation
+* Participate in functional working groups and progress meetings
+* Estimate costs, timescales and resource requirements for the
+successful completion of the project.
+* Prepare and maintain project and quality plans and track activities
+against the plan, provide regular and accurate reports
+* Monitor costs, timescales and resources used, and take action where
+these deviate from agreed tolerances. Ensure that delivered systems are
+implemented within these criteria
+* Manage the change control procedure gaining agreement for revisions to
+the project from project sponsors
+* __________________________________________________________________________________________________________________________________________________
+Provide effective leadership for the project group ensuring that group
+members are motivated and constantly developing their skills and
+experience
+__________________________________________________________________________________________________________________________________________________
+
+____________________________________________________________________________________________________________
+*Technologies and methodologies used:*
+
+MS Project, Jira, SVN, Java 1.5; HTML; JavaScript; Web Services;
+Weblogic,Spring Framework; XML., MS Windows
+____________________________________________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+01/2009 – 11/2010
+
+_(Effective number of months worked on the project: 21)_
+
+|*•* Name and address of employer | |INTRASOFT International SA
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Team Leader *
+
+|*•* Main activities and responsibilities | a|
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#5:* Consular Protection Website _(Client: European Commission -
+Justice (DG JUST)): _
+
+The system is a complete content management system with three main
+content categories organized: 1) information about Consular Protection
+provided mutually by all European Embassies to European Citizens outside
+European Union, 2) Contact information for all European Embassies in
+countries outside EU, and 3) Official Travel Advice information relayed
+from Cool web site. The website provides the information also in a
+format compatible with mobile devices.
+
+*Main activities and responsibilities:*
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* ______________________________________________________________________________________________________________________________________________________
+Coordination of the Romanian Team (3-5 people) into developing several
+websites: Anti-trafficking, European Migration Network and Consular
+Protection.
+______________________________________________________________________________________________________________________________________________________
+* _____________________________________________________________________________________________________________________________
+Recreated the architecture for the above specified sites and design the
+integration with Alfresco document management system.
+_____________________________________________________________________________________________________________________________
+
+________________________________________________________________________
+*Technologies and methodologies used:*
+
+Alfresco DMS, MS Windows, Java, JavaScript, Rest, Struts2, Tomcat, Linux
+________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+04/2007 –12/2008
+
+_(Effective number of months worked on the project: 21)_
+
+|*•* Name and address of employer | |INTRASOFT International SA
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Team Leader *
+
+|*•* Main activities and responsibilities | a|
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#6:* EUBOOKSHOP - EU Bookshop _(Client: Publications Office of
+the European Union (OPOCE):_
+
+EU Bookshop is an online service that aims to provide a single access
+point to citizens and businesses for various publications of the
+European institutions, agencies and other bodies, published and/or
+catalogued by the Publications Office. Publications may be downloaded
+directly from the site or ordered. EU Bookshop provides simple and
+advanced search functions as well as browsing functionalities.
+Furthermore, users can sign up to ‘My EU Bookshop’ and access
+personalized functions: search queries can be saved for regular use or
+the user can choose to be notified by e-mail about publications of
+interest.
+
+*Main activities and responsibilities:*
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* ____________________________________
+Coordination of the development team
+____________________________________
+* _____________________________________
+Design the architecture of the system
+_____________________________________
+* ___________________
+Write documentation
+___________________
+* _______________________________
+Implementation and unit testing
+_______________________________
+
+______________________________________________________________
+*Technologies and methodologies used:*
+
+Tomcat 5.x, Java 1.5, Spring, Struts2, MS Windows, Linux, JIRA
+______________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+12/2004 – 03/2007
+
+_(Effective number of months worked on the project: 28)_
+
+|*•* Name and address of employer | |INTRASOFT International SA
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Programmer *
+
+|*•* Main activities and responsibilities | a|
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#7:* FISH1 – DG Fisheries – R.904 _(Client: European Commission
+- Maritime Affairs and Fisheries (DG MARE)):_
+
+The mission of the Data Collection System is to collect, store and
+aggregate data that are derived from the national programmes set up by
+the Member States of the European Union in accordance with the
+Commission Regulation (No. 1639/2001). Transmissions of data have been
+automated and are carried out through a formalised data communication
+process facilitated by the project within a delimited time period.
+
+*Main activities and responsibilities:*
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* _____________________________________________________________
+Technical analysis of the existing system and the new modules
+_____________________________________________________________
+* _____________________________________________________________________________
+Re-engineering of some parts of the product in accordance to new
+requirements
+_____________________________________________________________________________
+* ____________________________________________________
+Implementing change requests and new functionalities
+____________________________________________________
+* ____________
+Unit testing
+____________
+
+______________________________________
+*Technologies and methodologies used:*
+______________________________________
+
+MS Windows, JIRA, ColdFusion, Fusebox, Java, HTML, XML, Rational Unified
+Process
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+06/2004 – 12/2004
+
+_(Effective number of months worked on the project: 6)_
+
+|*•* Name and address of employer | |INTRACOM
+
+|*•* Type of business or sector | |IT Services
+
+|*•* Occupation or position held | |*Senior Programmer *
+
+|*•* Main activities and responsibilities | a|
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#8:* RPL _(Client: National Institute for Statistics):_
+
+The RPL web application's purpose was to allow statisticians build
+queries on the census data without having any SQL knowledge. This visual
+query builder was a wizard-like application where every step translated
+a certain SQL feature into statistics friendly inputs. The final query
+result was displayed as a pivot table and allowed export in several
+formats.
+
+*Main activities and responsibilities:*
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+* ___________________________________________________
+Design and documentation of the entire application.
+___________________________________________________
+* __________________________
+Development of the system.
+__________________________
+* ___________________
+Writing unit tests.
+___________________
+
+_________________________________________________________________________________________
+*Technologies and methodologies used:*
+
+MS Windows, Linux, J2EE; Hibernate Framework Model 2.2/3; Servlet
+2.3/JSP 1.2; Tomcat 5.x
+_________________________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+06/2003 – 06/2004
+
+_(Effective number of months worked on the project: 12)_
+
+|*•* Name and address of employer | |DRAEXLMEIER Gmbh.
+
+|*•* Type of business or sector | |Electrical and electronic systems
+
+|*•* Occupation or position held | |*Programmer*
+
+|*•* Main activities and responsibilities | a|
+_______________________________________________________________________________________________
+*Project#9:* IPST _(Internal project)*: *_
+
+IPST is an applications designed for the management of production of
+electrical parts for cars.
+
+*Main activities and responsibilities:*
+_______________________________________________________________________________________________
+
+* ___________________________________
+Write Functional\Technical Analysis
+___________________________________
+* _______________________________
+Design parts of the application
+_______________________________
+* ________________________________
+Code according to specifications
+________________________________
+* ________________
+Write unit tests
+________________
+
+___________________________________________________________________________________________________________
+*Technologies and methodologies used:*
+
+J2EE; Servlet 2.3/ JSP 1.2; JBoss 4.0.2; website content design; Toad
+for Oracle 8.x; JUnit Framework 3.8.1
+___________________________________________________________________________________________________________
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|*•* Dates (from – to) | a|
+06/2002 – 06/2003
+
+_(Effective number of months worked on the project: 12)_
+
+|*•* Name and address of employer | |PRODINF SOFTWARE LTD.
+
+|*•* Type of business or sector | |IT Solutions
+
+|*•* Occupation or position held | |*Junior Programmer *
+
+|*•* Main activities and responsibilities | a|
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+*Project#10:* Asig 4.0 _(Client: Asirag):_
+
+Asig 4.0 is a J2EE application meant to manage the insurance process of
+a big insurance company. Asig 4.0 had all features needed: from client
+and risk management to insurance-premiums computation.
+
+*Main activities and responsibilities:*
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+* ___________________________________________________________________________________
+Development of the swing client part of the application according to
+specifications
+___________________________________________________________________________________
+
+_______________________________________________________
+*Technologies and methodologies used:*
+
+MS Office; Orion Application Server; Java 1.4; JBuilder
+_______________________________________________________
+
+|=======================================================================
+
+[cols="",]
+|======================
+|Education and training
+|======================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |10/2000 – 10/2002
+
+|• Name and type of organisation providing education and training |
+|University of Pitesti
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |Information Technology
+
+|• Title of qualification awarded | |Postgraduate [CERT] in Information
+Technology
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |EQF Level 7
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |10/1995 – 10/1999
+
+|• Name and type of organisation providing education and training |
+|University of Pitesti
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |Mathematics
+
+|• Title of qualification awarded | |BSc in Mathematics
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |EQF Level 6
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |01/09/2015 – 31/10/2015
+
+|• Name and type of organisation providing education and training |
+|MongoDB University
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |MongoDB for Java Developers
+
+|• Title of qualification awarded | |Certification of Course Completion
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |01/06/2015 – 31/07/2015
+
+|• Name and type of organisation providing education and training |
+|Coursera.org by École Polytechnique Fédérale de Lausanne
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |Functional Programming Principles in Scala
+
+|• Title of qualification awarded | |Certificate of Excellence
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |23/06/2011 – 25/06/2011
+
+|• Name and type of organisation providing education and training |
+|CUNIX Info Tech
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |CMMI
+
+|• Title of qualification awarded | |N/A
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |01/01/2011 – 31/03/2011
+
+|• Name and type of organisation providing education and training |
+|Personal training
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |Training in Alfresco
+
+|• Title of qualification awarded | |N/A
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |01/01/2007 – 01/06/2007
+|• Name and type of organisation providing education and training | |Sun
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |SCJP documentation
+|• Title of qualification awarded | |SUN - SCJP- certification
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |01/06/2006 – 15/06/2006
+
+|• Name and type of organisation providing education and training |
+|Oracle Romania
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |Informatics and Programming languages
+
+|• Title of qualification awarded | |Attendance certificate
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|• Dates (from – to) | |01/12/2004 – 31/12/2004
+
+|• Name and type of organisation providing education and training |
+|Personal training
+
+a|
+• Principal subjects/occupational
+
+skills covered
+
+ | |Coldfusion MX6
+
+|• Title of qualification awarded | |N/A
+
+a|
+• Level in national classification
+
+(if appropriate)
+
+ | |N/A
+|=======================================================================
+
+[cols="",]
+|=======================================================================
+a|
+Personal skills
+
+and competences
+
+_Acquired in the course of life and career but not necessarily covered
+by formal certificates and diplomas_.
+
+|=======================================================================
+
+[cols=",,",]
+|===========================
+|Mother tongue | |*Romanian*
+|===========================
+
+[cols="",]
+|===============
+|Other languages
+|===============
+
+[cols=",,",]
+|==========================================
+| | |*English*
+|*•* Reading skills | |C1 – Proficient User
+|*•* Writing skills | |C1 – Proficient User
+|*•* Verbal skills | |C1 – Proficient User
+|==========================================
+
+[cols=",,",]
+|=====================================
+| | |*French*
+|*•* Reading skills | |A2 – Basic User
+|*•* Writing skills | |A2 – Basic User
+|*•* Verbal skills | |A2 – Basic User
+|=====================================
+
+[cols=",,",]
+|=======================================================================
+a|
+Social skills
+
+and competences
+
+ | |The candidate is an open-minded, self-motivated person with very
+good communication skills. He has more than 11 years of experience
+working in international and multi-client environment with proven
+experience in managing distributed teams
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+a|
+Organisational skills
+
+and competences
+
+ | |He has excellent leadership, managerial and communication skills and
+performs well under pressure with a rapid self-starting capability,
+creating also a comfortable atmosphere with his colleagues in even in
+the stressful working environments.
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+a|
+Technical skills
+
+and competences
+
+ | a|
+An experienced project manager currently working as Technical Project
+Manager, having a broad professional experience in Java projects and a
+full overview over software development lifecycle.
+
+The candidate holds a BSc degree in Mathematics and a Postgraduate
+certification in Information technology from University of Pitesti.
+
+Currently, he is involved in Homebank project for Alphacredit – Belgium
+with a team spread all over Europe. Most of its projects were executed
+in accordance with the Rational Unified Process or an AGILE methodology.
+
+His technical knowledge covers mainly Java - J2EE Technologies as his
+certifications show.
+
+|=======================================================================
+
+[cols=",,",]
+|=======================================================================
+|COMPUTER SKILLS AND COMPETENCES | |Alfresco DMS; Hibernate Framework;
+HTML; Java/JEE;, JavaScript; JBoss 4..0; JBuilder; JUnit; MS Office;
+Orion Application Server; REST; SOAP, Servlet 2.3/JSP 1.2; Spring
+Framework; Spring Webflow; Oracle, MySql; Tomcat; Web Services; Weblogic
+Application Server; XML
+|=======================================================================
+
+[cols=",,",]
+|=======================
+|Driving licence(s) | |B
+|=======================
