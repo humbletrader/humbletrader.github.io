@@ -18,7 +18,7 @@ Work experience
 |Employer| Adswizz|
 |Business|Audio Advertising|
 |Position held| Senior Big Data Developer|
-|Main activities and responsabilities| * item 1 <br/> * item 2<br/> * item 3|
+|Main activities and responsabilities| * Improve the horizontal scalability of existing applications by reverse-engineering and re-writing some of them <br/> * Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients <br/> * Perform unit / integration / Load and performance testing|
 |Technologies used| Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming|
 
 
