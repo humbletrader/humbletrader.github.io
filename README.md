@@ -1,7 +1,7 @@
 Personal information
 ===================================
 
-| header 1      | header 2|
+|      |   | 
 |---------------|--------------------------------------|
 |  Name         |    BALAN Dragos|
 |  Address      |    Bucharest, sos. Berceni, nr. 8|
