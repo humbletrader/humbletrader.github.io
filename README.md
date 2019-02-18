@@ -14,19 +14,27 @@ Work experience
 ===================================
 |  |  |
 |--------------|---------------|
-|Dates(from-to)|10/2017-present|
+|Dates (from-to)|10/2017-present|
 |Employer| Adswizz|
 |Business|Audio Advertising|
 |Position held| Senior Big Data Developer|
 |Main activities and responsabilities| * Improve the horizontal scalability of existing applications by reverse-engineering and re-writing some of them <br/> * Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients <br/> * Perform unit / integration / Load and performance testing|
-|Technologies used| Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming|
+|Technologies and methodologies| Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming|
+
+
+|  |  |
+|--------------|---------------|
+|Dates (from-to)|09/2016 – 10/2017|
+|Employer| Central Europe Technologies (part of BNP-Paribas group)|
+|Business|Banking - Personal Finance|
+|Position held| Project Manager|
+|Main activities and responsabilities| * Supervision of the JAVA teams to deliver in scope, on time and within budget always keeping in mind the high quality standards imposed by BNP-Paribas standards <br/> * Managing the development and implementation of the project in accordance with the identified business needs <br/> * Acquiring and utilizing the necessary resources and skills, within agreed parameters of cost, time-scales, and quality <br/> * Give proposals for project strategies, planning, definition of tasks and deliverables, review of project deliverables, quality control, risk analysis and management, status reports, problem reporting and management systems, follow up and organisation <br/> * Participate in functional working groups and progress meetings <br/> * Estimate costs, time-scales and resource requirements for the successful completion of the project. <br/> * Prepare and maintain project and quality plans and track activities against the plan, provide regular and accurate reports <br/> * Monitor budget, time-scales and resources used, and take action where these deviate from agreed tolerances. Ensure that delivered systems are implemented within these criteria <br/> * Manage the change control procedure gaining agreement for revisions to the project from project sponsors <br/> * Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience|
+|Technologies and methodologies| Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web Services; XML., JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application Server|
 
 
 -----------------------------------------
   Dates (from – to)                         09/2016 – present
                                                   
-                                                  *(Effective number of months worked on the project: 4)*
-
   Name and address of employer              Central Europe Technologies
 
   Type of business or sector                IT Services
@@ -39,32 +47,8 @@ Work experience
                                                   >
                                                   > **Main activities and responsibilities:**
                                                   
-                                                  -   Supervision of the JAVA teams to deliver in scope, on time and within budget always keeping in mind the high quality standards imposed by INTRASOFT International.
-                                                  
-                                                  -   Managing the development and implementation of the project in accordance with the identified business needs,
-                                                  
-                                                  -   Acquiring and utilizing the necessary resources and skills, within agreed parameters of cost, time-scales, and quality;
-                                                  
-                                                  -   Give proposals for project strategies, planning, definition of tasks and deliverables, review of project deliverables, quality control, risk analysis and management, status reports, problem reporting and management systems, follow up and organisation
-                                                  
-                                                  -   Participate in functional working groups and progress meetings
-                                                  
-                                                  -   Estimate costs, time-scales and resource requirements for the successful completion of the project.
-                                                  
-                                                  -   Prepare and maintain project and quality plans and track activities against the plan, provide regular and accurate reports
-                                                  
-                                                  -   Monitor budget, time-scales and resources used, and take action where these deviate from agreed tolerances. Ensure that delivered systems are implemented within these criteria
-                                                  
-                                                  -   Manage the change control procedure gaining agreement for revisions to the project from project sponsors
-                                                  
-                                                  -   Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience
-                                                  
-                                                  > **Technologies and methodologies used:**
-                                                  >
-                                                  > Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web Services; XML., JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application Server
-  -------------------------------------------- -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -------------------------------------------- -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 
+  -------------------------------------------------------------------------------------------------------------------------------
   **•** Dates (from – to)                         04/2013 – 09/2016
                                                   
                                                   *(Effective number of months worked on the project: 41)*
