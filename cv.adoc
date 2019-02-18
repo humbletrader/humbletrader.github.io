@@ -1,145 +1,66 @@
 [cols="",]
-|===============================================
-a|
-[[euro]]European
-
-curriculum vitae
-
-format
-
-image:media/image1.png[image,width=37,height=26]
-
-|===============================================
-
-[cols="",]
 |====================
 |Personal information
 |====================
 
-[cols=",,",]
+[cols=",",]
 |===========================================
-|Name | |*BALAN Dragos*
-|Address | |*Bucharest, sos. Berceni, nr. 8*
-|Telephone | |*+40 742038765*
-|Fax | |
-|E-mail | |*dragos.balan@gmail.com*
+|Name | *BALAN Dragos*
+|Address | *Bucharest, sos. Berceni, nr. 8*
+|Telephone | *+40 742038765*
+|E-mail |*dragos.balan@gmail.com*
+|Nationality | Romanian
+|Date of birth | 10/08/1976
 |===========================================
-
-[cols=",,",]
-|=======================
-|Nationality | |Romanian
-|=======================
-
-[cols=",,",]
-|===========================
-|Date of birth | |10/08/1976
-|===========================
-
-[cols=",,",]
-|=============================
-|POSITION | |*Project Manager*
-|=============================
 
 [cols="",]
 |===============
 |Work experience
 |===============
 
-[cols=",,",]
+[cols=",",]
 |=======================================================================
-|*•* Dates (from – to) | a|
-09/2016 – present
-
-_(Effective number of months worked on the project: 4)_
-
-|*•* Name and address of employer | |Central Europe Technologies
-
-|*•* Type of business or sector | |IT Services
-
-|*•* Occupation or position held | |*Project Manager *
-
-|*•* Main activities and responsibilities | a|
-_______________________________________________________________________________________________________
-*Project #1:* Homebank Backend _(Client: AlphaCredit Belgium): _
-
-For the Homebank project we have developed the backend SOAP services
-consumed by a Liferay application.
-
-*Main activities and responsibilities:*
-_______________________________________________________________________________________________________
-
-* __________________________________________________________________________________________________________________________________________________________________
-Supervision of the JAVA teams to deliver in scope, on time and within
-budget always keeping in mind the high quality standards imposed by
-INTRASOFT International.
-__________________________________________________________________________________________________________________________________________________________________
-* ____________________________________________________________________________________________________________
-Managing the development and implementation of the project in accordance
+| Dates (from – to) | 09/2016 – present
+| Name and address of employer | Central Europe Technologies
+| Type of business or sector | IT Services
+| Occupation or position held | Project Manager
+| Project description | Homebank Backend (Client: AlphaCredit Belgium): Homebank project consisted of a series of the SOAP  services consumed by a Liferay application.
+| Main activities and responsibilities | * Supervision of the JAVA teams to deliver in scope, on time and within
+budget always keeping in mind the high quality standards imposed by BNP-Paribas Standards. 
+* Managing the development and implementation of the project in accordance
 with the identified business needs,
-____________________________________________________________________________________________________________
-* _______________________________________________________________________________________________________________________
-Acquiring and utilizing the necessary resources and skills, within
+* Acquiring and utilizing the necessary resources and skills, within
 agreed parameters of cost, time-scales, and quality;
-_______________________________________________________________________________________________________________________
-* __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Give proposals for project strategies, planning, definition of tasks and
+* Give proposals for project strategies, planning, definition of tasks and
 deliverables, review of project deliverables, quality control, risk
 analysis and management, status reports, problem reporting and
 management systems, follow up and organisation
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-* ______________________________________________________________
-Participate in functional working groups and progress meetings
-______________________________________________________________
-* ___________________________________________________________________________________________________
-Estimate costs, time-scales and resource requirements for the successful
+* Participate in functional working groups and progress meetings
+* Estimate costs, time-scales and resource requirements for the successful
 completion of the project.
-___________________________________________________________________________________________________
-* __________________________________________________________________________________________________________________________
-Prepare and maintain project and quality plans and track activities
+* Prepare and maintain project and quality plans and track activities
 against the plan, provide regular and accurate reports
-__________________________________________________________________________________________________________________________
-* _______________________________________________________________________________________________________________________________________________________________________________
-Monitor budget, time-scales and resources used, and take action where
+* Monitor budget, time-scales and resources used, and take action where
 these deviate from agreed tolerances. Ensure that delivered systems are
 implemented within these criteria
-_______________________________________________________________________________________________________________________________________________________________________________
-* ________________________________________________________________________________________________________
-Manage the change control procedure gaining agreement for revisions to
+* Manage the change control procedure gaining agreement for revisions to
 the project from project sponsors
-________________________________________________________________________________________________________
-* __________________________________________________________________________________________________________________________________________________
-Provide effective leadership for the project group ensuring that group
+* Provide effective leadership for the project group ensuring that group
 members are motivated and constantly developing their skills and
 experience
-__________________________________________________________________________________________________________________________________________________
-
-____________________________________________________________________________________________________________________________________________________
-*Technologies and methodologies used:*
-
-Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web
+|*Technologies and methodologies used:* | Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web
 Services; XML., JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application
 Server
-____________________________________________________________________________________________________________________________________________________
-
 |=======================================================================
 
-[cols=",,",]
+[cols=",",]
 |=======================================================================
-|*•* Dates (from – to) | a|
-04/2013 – 09/2016
-
-_(Effective number of months worked on the project: 41)_
-
-|*•* Name and address of employer | |INTRASOFT International SA
-
-|*•* Type of business or sector | |IT Services
-
-|*•* Occupation or position held | |*Technical Project Manager *
-
-|*•* Main activities and responsibilities | a|
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-*Project #2:* SDMX Tools Maintenance (under STIS II & STIS III FWCs)
-_(Client: EUROSTAT): _
+| Dates (from – to) | 04/2013 – 09/2016
+| Name and address of employer | INTRASOFT International SA
+| Type of business or sector | IT Services
+| Occupation or position held | *Technical Project Manager *
+| Main activities and responsibilities | *Project #2:* SDMX Tools Maintenance (under STIS II & STIS III FWCs)
+(Client: EUROSTAT): 
 
 The contract is hosting several projects for the Analysis, Development,
 Enhancement and Maintenance of the SDMX Reference Infrastructure and the
@@ -151,61 +72,44 @@ order to automate the periodic exchanges of statistical data between the
 Member States and EUROSTAT.
 
 *Main activities and responsibilities:*
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-* ___________________________________________________________________________________________________________________________________________________________________________________________________________________
-Supervision of the .NET and JAVA teams located in Stuttgart, Bucharest
+ 
+ * Supervision of the .NET and JAVA teams located in Stuttgart, Bucharest
 and Luxembourg to deliver in scope, on time, in budget always keeping in
 mind the high quality standards imposed by INTRASOFT International.
-___________________________________________________________________________________________________________________________________________________________________________________________________________________
-* ____________________________________________________________________________________________________________
-Managing the development and implementation of the project in accordance
+
+* Managing the development and implementation of the project in accordance
 with the identified business needs,
-____________________________________________________________________________________________________________
-* ______________________________________________________________________________________________________________________
-Acquiring and utilizing the necessary resources and skills, within
+
+* Acquiring and utilizing the necessary resources and skills, within
 agreed parameters of cost, timescales, and quality;
-______________________________________________________________________________________________________________________
-* __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Give proposals for project strategies, planning, definition of tasks and
+
+* Give proposals for project strategies, planning, definition of tasks and
 deliverables, review of project deliverables, quality control, risk
 analysis and management, status reports, problem reporting and
 management systems, follow up and organisation
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-* ______________________________________________________________
-Participate in functional working groups and progress meetings
-______________________________________________________________
-* ___________________________________________________________________________________________________
-Estimate costs, time-scales and resource requirements for the successful
+
+* Participate in functional working groups and progress meetings
+
+* Estimate costs, time-scales and resource requirements for the successful
 completion of the project.
-___________________________________________________________________________________________________
-* __________________________________________________________________________________________________________________________
-Prepare and maintain project and quality plans and track activities
+
+* Prepare and maintain project and quality plans and track activities
 against the plan, provide regular and accurate reports
-__________________________________________________________________________________________________________________________
-* ______________________________________________________________________________________________________________________________________________________________________________
-Monitor costs, time-scales and resources used, and take action where
+
+* Monitor costs, time-scales and resources used, and take action where
 these deviate from agreed tolerances. Ensure that delivered systems are
 implemented within these criteria
-______________________________________________________________________________________________________________________________________________________________________________
-* ________________________________________________________________________________________________________
-Manage the change control procedure gaining agreement for revisions to
+
+* Manage the change control procedure gaining agreement for revisions to
 the project from project sponsors
-________________________________________________________________________________________________________
-* __________________________________________________________________________________________________________________________________________________
-Provide effective leadership for the project group ensuring that group
+
+* Provide effective leadership for the project group ensuring that group
 members are motivated and constantly developing their skills and
 experience
-__________________________________________________________________________________________________________________________________________________
 
-___________________________________________________________________________________________________________________________________________________________
-*Technologies and methodologies used:*
-
-Agile, MS Project, Jira, Bamboo, Git, Stash, REST; SDMX 2.0; SDMX 2.1;
+|*Technologies and methodologies used:* | Agile, MS Project, Jira, Bamboo, Git, Stash, REST; SDMX 2.0; SDMX 2.1;
 Java 1.5; HTML; JavaScript; Web Services; Spring Framework; XML., MS
 Windows, CentOS
-___________________________________________________________________________________________________________________________________________________________
-
 |=======================================================================
 
 [cols=",,",]
