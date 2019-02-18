@@ -13,8 +13,9 @@ Personal information
 Work experience
 ===================================
 
-|Dates(from-to)|10/2017-present|
+| | |
 |--------------|---------------|
+|Dates(from-to)|10/2017-present|
 |Employer| Adswizz|
 |Business|Audio Advertising|
 |Position held| Senior Big Data Developer|
