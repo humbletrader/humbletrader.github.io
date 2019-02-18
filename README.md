@@ -2,10 +2,10 @@ Personal information
 --------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------
-  Name      |           BALAN Dragos  
-  Address   |        Bucharest, sos. Berceni, nr. 8
-  Telephone |      40 742038765
-  E-mail    |    dragos.balan@gmail.com
+|  Name      |    BALAN Dragos                                                           |
+|  Address   |    Bucharest, sos. Berceni, nr. 8                                            |
+|  Telephone |    40 742038765                                                                |  
+|  E-mail    |    dragos.balan@gmail.com                                                        |
 -------------------------------------------------------------------------------------------------
 
   ------------- -- ----------
