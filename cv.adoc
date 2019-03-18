@@ -14,7 +14,8 @@
 == Work experience
 
 === 10/2017 - present
-[cols="<,<"]
+[cols="1,3"]
+.Current Job
 |===
 |Employer |Adswizz
 |Business |Audio Advertising 
@@ -22,16 +23,17 @@
 |Project description |Inventory Forecast 
 |Client |Internal project 
 |Technologies and methodologies | Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Improve the horizontal scalability of existing applications by reverse-engineering them using mainly Spark and Scala
 * Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients
 * Perform unit / integration / Load and performance testing
-
 |===
 
 === 02/2016 – 10/2017
-[cols="<,<"]
+[cols="1,3"]
+.Previous job
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
@@ -39,15 +41,16 @@ Main activities and responsibilities
 |Project description | Mapping Assistant: Re-writing of a desktop application as a Single Page Web Application
 |Client | EUROSTAT
 |Technologies and methodologies |Agile, Jira, Bamboo (CI), Git, REST, Java 8, Spring Boot 1.x, React.js
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Analysis and development of the backend and frontend of the web application
 * Unit testing
-
 |===
 
 === 09/2016 – 02/2017
-[cols="<,<"]
+[cols="1,3"]
+.2016-2017
 |===
 |Employer |Central Europe Technologies (part of BNP-Paribas group)
 |Business |Banking - Personal Finance 
@@ -56,8 +59,9 @@ Main activities and responsibilities
 |Client |AlphaCredit Belgium
 |Technologies and methodologies |Waterfall, MS Project, MS Word, MS Excel, Jira, Git, Confluence
 |Technologies | Java 7, JEE 7, SOAP, Web Services, XML, JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application Server
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Supervision of the JAVA teams to deliver in scope, on time and within budget always keeping in mind the high quality imposed by BNP-Paribas standards
 * Managing the development and implementation of the project in accordance with the identified business needs
 * Acquiring and utilizing the necessary resources and skills, within agreed parameters of cost, time-scales, and quality
@@ -69,11 +73,11 @@ Main activities and responsibilities
 * Ensure that delivered systems are implemented within these criteria
 * Manage the change control procedure gaining agreement for revisions to the project from project sponsors
 * Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience
-
 |===
 
 === 01/2016 – 09/2016
-[cols="<,<"]
+[cols="1,3"]
+.2016
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services
@@ -81,14 +85,16 @@ Main activities and responsibilities
 |Project description |Wizard-like web application to help users build and automate their interactions with the SDMX infrastructure
 |Client |EUROSTAT
 |Technologies and methodologies |Agile, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 8; Spring Web Flow, Bootstrap 3.0, JQuery, Spring Framework, CentOS, Windows
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Analysis and Development of a web application
 * Team coordination (aprox. 5 persons)
 |===
 
 === 04/2013 – 01/2016
-[cols="<,<"]
+[cols="1,3"]
+.2013-2016
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services
@@ -96,8 +102,9 @@ Main activities and responsibilities
 |Project description |SDMX Tools Maintenance : A suite of tools promoted by EUROSTAT to the Member States and used in order to automate the periodic exchanges of statistical data between the Member States and EUROSTAT. 
 |Client |EUROSTAT
 |Technologies and methodologies |Agile, MS Project, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 1.5; HTML; JavaScript; Web Services; Spring Framework; XML., MS Windows, CentOS
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Analysis, Development, Enhancement and Maintenance of the SDMX Reference Infrastructure and the related suite of SDMX-Tools, developed in the past and based on the SDMX 2.0 and SDMX-2.1 standards
 * Supervision of the .NET and JAVA teams located in Stuttgart, Bucharest and Luxembourg to deliver in scope, on time, in budget always keeping in mind the high quality standards imposed by INTRASOFT International.
 * Managing the development and implementation of the project in accordance with the identified business needs,
@@ -112,7 +119,8 @@ Main activities and responsibilities
 |===
 
 === 06/2012 – 03/2013
-[cols="<,<"]
+[cols="1,3"]
+.2012-2013
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
@@ -120,16 +128,17 @@ Main activities and responsibilities
 |Project description |ICISNET CUSTOMS (V.601108) : ICISnet is a modern customs system for Greek customs implementing EU and national regulations. Its scope is to fully cover customs officers’ needs as well as traders and / or citizens who are dealing with customs era. The system interfaces with external systems either EU or National ones applying safety regulations imposed by EU and / or Greek authorities and laws. It's developed through 18 modules/applications which cover every activity, transaction, operation of Greek customs. It is a centralised system developed with the most recent technologies and methodologies. The ICISnet system is related to the implementation of EU Decisions and Directives and is operational on a 24/7 basis. ICISNET is considered to be a high volume data system as the number of users is 2,000 (long-term the system will be used from 10,000 users).
 |Client |Ministry of Finance of Greece (KTP)
 |Technologies and methodologies |Agile, Spring Webflow; Weblogic Server 10.3; JEE (Java Platform, Enterprise Edition), Spring Integration, JMS, SOAP web services, Arch Linux, MS Windows
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Maintain the existing application
 * Ensuring the correct application of Agile principles.
-
 |===
 
 
 === 10/2010 – 05/2012
-[cols="<,<"]
+[cols="1,3"]
+.2010-2012
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
@@ -137,8 +146,9 @@ Main activities and responsibilities
 |Project description |OHIM-SMS :The project concerned the provision of corrective, adaptive and preventive maintenance of software relating to the Office’s core business information systems for trademark and design registration. These systems cover the complete life-cycle and business process of a Community Trade Mark or Registered Community Design such as services for examination, opposition and cancellation, payment, communication between customer and the Office and access to specific services, e.g. classification tools
 |Client |Office for Harmonization in the Internal Market - OHIM
 |Technologies and methodologies |MS Project, Jira, SVN, Java 1.5; HTML; JavaScript; Web Services; Weblogic,Spring Framework; XML., MS Windows
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Coordinated the team located in Bucharest (approximately 15 people) in maintaining and developing a set of 10 applications for the Office of Harmonization in the Internal Market (OHIM)
 * Managing the development and implementation of the project in accordance with the identified business needs,
 * Acquiring and utilizing the necessary resources and skills, within agreed parameters of cost, timescales, and quality;
@@ -153,7 +163,8 @@ Main activities and responsibilities
 
 
 === 01/2009 – 11/2010
-[cols="<,<"]
+[cols="1,3"]
+.2009-2010
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services
@@ -161,14 +172,16 @@ Main activities and responsibilities
 |Project description |Consular Protection Website : The system is a complete content management system with three main content categories organized: 1) information about Consular Protection provided mutually by all European Embassies to European Citizens outside European Union, 2) Contact information for all European Embassies in countries outside EU, and 3) Official Travel Advice information relayed from Cool web site. The website provides the information also in a format compatible with mobile devices.
 |Client |European Commission - Justice (DG JUST)
 |Technologies and methodologies used: |Alfresco DMS, MS Windows, Java, JavaScript, Rest, Struts2, Tomcat, Linux
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Coordination of the Romanian Team (5 people) into developing several websites: Anti-trafficking, European Migration Network and Consular Protection.
 * Recreated the architecture for the above specified sites and design the integration with Alfresco document management system.
 |===
 
 === 04/2007 – 12/2008
-[cols="<,<"]
+[cols="1,3"]
+.2007-2008
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
@@ -176,8 +189,9 @@ Main activities and responsibilities
 |Project description |EUBOOKSHOP - EU Bookshop : EU Bookshop is an online service that aims to provide a single access point to citizens and businesses for various publications of the European institutions, agencies and other bodies, published and/or catalogued by the Publications Office. Publications may be downloaded directly from the site or ordered. EU Bookshop provides simple and advanced search functions as well as browsing functionalities. Furthermore, users can sign up to ‘My EU Bookshop’ and access personalized functions: search queries can be saved for regular use or the user can choose to be notified by e-mail about publications of interest.
 |Client |Publications Office of the European Union (OPOCE) 
 |Technologies and methodologies |Tomcat 5.x, Java 1.5, Spring, Struts2, MS Windows, Linux, JIRA
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Coordination of the development team
 * Design the architecture of the system
 * Write documentation
@@ -186,7 +200,8 @@ Main activities and responsibilities
 
 
 === 12/2004 – 03/2007
-[cols="<,<"]
+[cols="1,3"]
+.2004-2007
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
@@ -194,18 +209,19 @@ Main activities and responsibilities
 |Project description |FISH1 – DG Fisheries – R.904: The mission of the Data Collection System is to collect, store and aggregate data that are derived from the national programmes set up by the Member States of the European Union in accordance with the Commission Regulation (No. 1639/2001). Transmissions of data have been automated and are carried out through a formalised data communication process facilitated by the project within a delimited time period. 
 |Client |European Commission - Maritime Affairs and Fisheries (DG MARE)
 |Technologies and methodologies |MS Windows, JIRA, ColdFusion, Fusebox, Java, HTML, XML, Rational Unified Process
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Technical analysis of the existing system and the new modules
 * Re-engineering of some parts of the product in accordance to new requirements
 * Implementing change requests and new functionalities
 * Unit testing
-
 |===
 
 
 === 06/2004 – 12/2004
-[cols="<,<"]
+[cols="1,3"]
+.2004
 |===
 |Employer |INTRACOM
 |Type of business or sector |IT Services 
@@ -213,8 +229,9 @@ Main activities and responsibilities
 |Project description |RPL The RPL web application's purpose was to allow statisticians build queries on the census data without having any SQL knowledge. This visual query builder was a wizard-like application where every step translated a certain SQL feature into statistics friendly inputs. The final query result was displayed as a pivot table and allowed export in several formats.
 |Client |Romanian National Institute for Statistics (INS)
 |Technologies and methodologies |MS Windows, Linux, J2EE; Hibernate Framework Model 2.2/3; Servlet 2.3/JSP 1.2; Tomcat 5.x
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Design and documentation of the entire application.
 * Development of the system.
 * Writing unit tests.
@@ -222,7 +239,8 @@ Main activities and responsibilities
 
 
 === 06/2003 – 06/2004
-[cols="<,<"]
+[cols="1,3"]
+.2003-2004
 |===
 |Employer |DRAEXLMEIER Gmbh.
 |Type of business or sector |Electrical and electronic systems 
@@ -230,8 +248,9 @@ Main activities and responsibilities
 |Project description |IPST : IPST is an applications designed for the management of production of electrical parts for cars.
 |Client |Internal project
 |Technologies and methodologies |J2EE; Servlet 2.3/ JSP 1.2; JBoss 4.0.2; website content design; Toad for Oracle 8.x; JUnit Framework 3.8.1
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Write Functional -Technical Analysis
 * Design parts of the application
 * Code according to specifications
@@ -239,7 +258,8 @@ Main activities and responsibilities
 |===
 
 === 06/2002 – 06/2003
-[cols="<,<"]
+[cols="1,3"]
+.2002-2003
 |===
 |Employer |PRODINF SOFTWARE LTD.
 |Type of business or sector |IT Solutions 
@@ -247,8 +267,9 @@ Main activities and responsibilities
 |Project description |Asig 4.0 : Asig 4.0 is a J2EE application meant to manage the insurance process of a big insurance company. Asig 4.0 had all features needed: from client and risk management to insurance-premiums computation.
 |Client |Asirag
 |Technologies and methodologies |MS Office; Orion Application Server; Java 1.4; JBuilder
-2+|
-Main activities and responsibilities
+2+a|
+Main activities and responsibilities:
+
 * Development of the swing client part of the application according to specifications
 |===
 
@@ -272,7 +293,7 @@ Main activities and responsibilities
 |Level in national classification |EQF Level 6
 |===
 
-=== MongoDb certification
+=== MongoDB certification
 |===
 |Dates (from – to) |01/09/2015 – 31/10/2015
 |Name and type of organisation providing education and training |MongoDB University 
