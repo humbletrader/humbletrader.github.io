@@ -1,3 +1,4 @@
+= Dragos Balan
 
 == Personal information
 
@@ -22,7 +23,7 @@
 |Client |Internal project 
 |Main activities and responsibilities
 a|
-* Improve the horizontal scalability of existing applications by reverse-engineering and re-writing some of them
+* Improve the horizontal scalability of existing applications by reverse-engineering them using mainly Spark and Scala
 * Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients
 * Perform unit / integration / Load and performance testing
 |Technologies and methodologies | Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming
@@ -34,7 +35,7 @@ a|
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
 |Position Held |Full stack Senior Developer - Team Leader
-|Project description |Mapping Assistant: Re-writing of a desktop application as a Single Page Web Application
+|Project description | Mapping Assistant: Re-writing of a desktop application as a Single Page Web Application
 |Client | EUROSTAT
 |Main activities and responsibilities
 a|
@@ -335,7 +336,6 @@ a|
 |===
 
 ==== French
-
 |===
 |Reading skills |A2 – Basic User
 |Writing skills |A2 – Basic User
