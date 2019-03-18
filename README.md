@@ -13,8 +13,8 @@ Personal information
 Work experience
 ===================================
 
-| 10/2017-present |  |
-|--------------|---------------|
+| 10/2017 - present |  |
+|:--------------|---------------|
 | Employer                     | Adswizz |
 | Business                     | Audio Advertising |
 | Position held                | Senior Developer for Big Data Apps |
@@ -25,7 +25,7 @@ Work experience
 
 
 | 02/2016 – 10/2017 |  |
-|--------------|---------------|                                               
+|:--------------|---------------|                                               
 | Employer                     | INTRASOFT International SA |
 | Type of business or sector   | IT Services |
 | Position Held                | Full stack Senior Developer - Team Leader|
@@ -35,7 +35,7 @@ Work experience
 | Technologies and methodologies       | Agile, Jira, Bamboo, Git, REST, Java 8, Spring Boot 1.x, Javascript: React.js|
 
 | 09/2016 – 02/2017 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer                     | Central Europe Technologies (part of BNP-Paribas group)|
 | Business                     | Banking - Personal Finance |
 | Position held                | Project Manager |
@@ -46,7 +46,7 @@ Work experience
 
 
 | 01/2016 – 09/2016 |  |
-|--------------|---------------|                                               
+|:--------------|---------------|                                               
 | Employer                     |INTRASOFT International SA|
 | Type of business or sector   |IT Services|
 | Position Held                | Senior Developer - Team Leader|
@@ -55,8 +55,8 @@ Work experience
 | Main activities and responsibilities | Development of  
 | Technologies and methodologies       | Agile, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 8; Spring Web Flow, Bootstrap 3.0, JQuery, Spring Framework, CentOS, Windows |
                                                   
-|  04/2013 – 01/2016 |  |
-|--------------|---------------|                                               
+| 04/2013 – 01/2016 |  |
+|:--------------|---------------|                                               
 | Employer                     | INTRASOFT International SA|
 | Type of business or sector   | IT Services|
 | Position Held                | Technical Project Manager|
@@ -66,7 +66,7 @@ Work experience
 | Technologies and methodologies       | Agile, MS Project, Jira, Bamboo, Git, Stash, REST; SDMX 2.0; SDMX 2.1; Java 1.5; HTML; JavaScript; Web Services; Spring Framework; XML., MS Windows, CentOS|
   
 | 06/2012 – 03/2013 |  |
-|--------------|---------------| 
+|:--------------|---------------| 
 | Employer | INTRASOFT International SA |
 | Type of business or sector | IT Services |
 | Position Held |Senior Analyst-Programmer |
@@ -77,7 +77,7 @@ Work experience
 
 
 | 10/2010 – 05/2012 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer                     | INTRASOFT International SA |
 | Type of business or sector   | IT Services |
 | Position Held                | Deputy Project Manager |
@@ -88,7 +88,7 @@ Work experience
   
 
 | 01/2009 – 11/2010 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer | INTRASOFT International SA|
 | Type of business or sector   | IT Services|
 | Position Held                | Team Leader |
@@ -98,7 +98,7 @@ Work experience
 | Technologies and methodologies used: | Alfresco DMS, MS Windows, Java, JavaScript, Rest, Struts2, Tomcat, Linux |
 
 | 04/2007 –12/2008 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer | INTRASOFT International SA |
 | Type of business or sector   | IT Services |
 | Position Held                | Team Leader |
@@ -108,7 +108,7 @@ Work experience
 | Technologies and methodologies       | Tomcat 5.x, Java 1.5, Spring, Struts2, MS Windows, Linux, JIRA|
                                                   
 | 12/2004 – 03/2007 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer | INTRASOFT International SA |
 | Type of business or sector   | IT Services |
 | Position Held                | Senior Java Programmer |
@@ -118,7 +118,7 @@ Work experience
 | Technologies and methodologies       | MS Windows, JIRA, ColdFusion, Fusebox, Java, HTML, XML, Rational Unified Process|
                                                   
 | 06/2004 – 12/2004 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer | INTRACOM |
 | Type of business or sector   | IT Services |
 | Position Held                | Senior Programmer |
@@ -128,7 +128,7 @@ Work experience
 | Technologies and methodologies       | MS Windows, Linux, J2EE; Hibernate Framework Model 2.2/3; Servlet 2.3/JSP 1.2; Tomcat 5.x|
                                                   
 | 06/2003 – 06/2004 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer | DRAEXLMEIER Gmbh. |
 | Type of business or sector   | Electrical and electronic systems |
 | Position Held                | Programmer |
@@ -138,7 +138,7 @@ Work experience
 | Technologies and methodologies       | J2EE; Servlet 2.3/ JSP 1.2; JBoss 4.0.2; website content design; Toad for Oracle 8.x; JUnit Framework 3.8.1|
 
 | 06/2002 – 06/2003 |  |
-|--------------|---------------|
+|:--------------|---------------|
 | Employer | PRODINF SOFTWARE LTD.|
 | Type of business or sector   | IT Solutions |
 | Position Held                | Junior Programmer |
