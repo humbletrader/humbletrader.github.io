@@ -32,28 +32,28 @@ Work experience
 | Project description          | Mapping Assistant |
 | Client                       | EUROSTAT |
 | Main activities and responsibilities | Translation of a desktop application into a Single Page Web Application |
-| Technologies and methodologies       | Agile, Jira, Bamboo, Git, REST, Java 8, Spring Boot 1.x, Javascript: React.js|
+| Technologies and methodologies       | Agile, Jira, Bamboo, Git, REST, Java 8, Spring Boot 1.x, React.js|
 
 | 09/2016 – 02/2017 |  |
 |:--------------|---------------|
-| Employer                     | Central Europe Technologies (part of BNP-Paribas group)|
-| Business                     | Banking - Personal Finance |
-| Position held                | Project Manager |
-| Project description          | Homebank |
-| Client                       | AlphaCredit Belgium |
+| Employer | Central Europe Technologies (part of BNP-Paribas group)|
+| Business | Banking - Personal Finance |
+| Position held | Project Manager |
+| Project description | Homebank : Personal finance management application |
+| Client | AlphaCredit Belgium |
 | Main activities and responsibilities | Supervision of the JAVA teams to deliver in scope, on time and within budget always keeping in mind the high quality standards imposed by BNP-Paribas standards <br/> Managing the development and implementation of the project in accordance with the identified business needs <br/> Acquiring and utilizing the necessary resources and skills, within agreed parameters of cost, time-scales, and quality <br/> Give proposals for project strategies, planning, definition of tasks and deliverables, review of project deliverables, quality control, risk analysis and management, status reports, problem reporting and management systems, follow up and organisation <br/> Participate in functional working groups and progress meetings <br/> Estimate costs, time-scales and resource requirements for the successful completion of the project. <br/> Prepare and maintain project and quality plans and track activities against the plan, provide regular and accurate reports <br/> Monitor budget, time-scales and resources used, and take action where these deviate from agreed tolerances. Ensure that delivered systems are implemented within these criteria <br/> Manage the change control procedure gaining agreement for revisions to the project from project sponsors <br/> Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience |
-| Technologies and methodologies       | Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web Services; XML., JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application Server|
+| Technologies and methodologies | Waterfall, MS Project, Jira, Git, Confluence, Java 7, JEE 7, SOAP, Web Services; XML., JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application Server|
 
 
 | 01/2016 – 09/2016 |  |
 |:--------------|---------------|                                               
-| Employer                     |INTRASOFT International SA|
-| Type of business or sector   |IT Services|
-| Position Held                | Senior Developer - Team Leader|
-| Project description          | SDMX Tools Maintenance : The contract is hosting several projects for the Analysis, Development, Enhancement and Maintenance of the SDMX Reference Infrastructure and the related suite of SDMX-Tools, developed in the past and based on the “SDMX 2.0" and "SDMX-2.1" standards.The tools are promoted by EUROSTAT to the Member States and used in order to automate the periodic exchanges of statistical data between the Member States and EUROSTAT. |
-| Client                       | EUROSTAT |
-| Main activities and responsibilities | Development of  
-| Technologies and methodologies       | Agile, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 8; Spring Web Flow, Bootstrap 3.0, JQuery, Spring Framework, CentOS, Windows |
+| Employer | INTRASOFT International SA|
+| Type of business or sector | IT Services|
+| Position Held | Senior Developer - Team Leader|
+| Project description | Wizard-like web application to help users build and automate their day-to-day tasks|
+| Client | EUROSTAT |
+| Main activities and responsibilities | Development of a web application | 
+| Technologies and methodologies | Agile, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 8; Spring Web Flow, Bootstrap 3.0, JQuery, Spring Framework, CentOS, Windows |
                                                   
 | 04/2013 – 01/2016 |  |
 |:--------------|---------------|                                               
@@ -78,13 +78,13 @@ Work experience
 
 | 10/2010 – 05/2012 |  |
 |:--------------|---------------|
-| Employer                     | INTRASOFT International SA |
-| Type of business or sector   | IT Services |
-| Position Held                | Deputy Project Manager |
-| Project description          | OHIM-SMS :The project concerned the provision of corrective, adaptive and preventive maintenance of software relating to the Office’s core business information systems for trademark and design registration. These systems cover the complete life-cycle and business process of a Community Trade Mark or Registered Community Design such as services for examination, opposition and cancellation, payment, communication between customer and the Office and access to specific services, e.g. classification tools|
-| Client                       | Office for Harmonization in the Internal Market - OHIM |
+| Employer | INTRASOFT International SA |
+| Type of business or sector | IT Services |
+| Position Held | Deputy Project Manager |
+| Project description | OHIM-SMS :The project concerned the provision of corrective, adaptive and preventive maintenance of software relating to the Office’s core business information systems for trademark and design registration. These systems cover the complete life-cycle and business process of a Community Trade Mark or Registered Community Design such as services for examination, opposition and cancellation, payment, communication between customer and the Office and access to specific services, e.g. classification tools|
+| Client | Office for Harmonization in the Internal Market - OHIM |
 | Main activities and responsibilities | Coordinated the team located in Bucharest (approximately 15 people) in maintaining and developing a set of 10 applications for the Office of Harmonization in the Internal Market (OHIM)<br/>   Managing the development and implementation of the project in accordance with the identified business needs,<br/>   Acquiring and utilizing the necessary resources and skills, within agreed parameters of cost, timescales, and quality;<br/>   Give proposals for project strategies, planning, definition of tasks and deliverables, review of project deliverables, quality control, risk analysis and management, status reports, problem reporting and management systems, follow up and organisation<br/>   Participate in functional working groups and progress meetings<br/>   Estimate costs, timescales and resource requirements for the successful completion of the project.<br/>   Prepare and maintain project and quality plans and track activities against the plan, provide regular and accurate reports<br/>   Monitor costs, timescales and resources used, and take action where these deviate from agreed tolerances. Ensure that delivered systems are implemented within these criteria<br/>   Manage the change control procedure gaining agreement for revisions to the project from project sponsors<br/>   Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience |
-| Technologies and methodologies       | MS Project, Jira, SVN, Java 1.5; HTML; JavaScript; Web Services; Weblogic,Spring Framework; XML., MS Windows|
+| Technologies and methodologies | MS Project, Jira, SVN, Java 1.5; HTML; JavaScript; Web Services; Weblogic,Spring Framework; XML., MS Windows|
   
 
 | 01/2009 – 11/2010 |  |
