@@ -9,7 +9,7 @@ Personal information
 | E-mail        | dragos.balan@gmail.com            |
 | Nationality   | Romanian                          |
 | Date of birth | 10/08/1976                        |
-  
+
 Work experience
 ===================================
 
