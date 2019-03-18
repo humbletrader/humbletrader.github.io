@@ -27,8 +27,9 @@ working as a senior big data developer in the audio advertising industry.
 |Business |Audio Advertising 
 |Position held |Senior Developer for Big Data Apps 
 |Project description |Inventory Forecast 
-|Client |Internal project 
-|Technologies and methodologies | Agile, Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming
+|Client |Internal project
+|Methodology | Agile
+|Technologies | Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming
 2+a|
 Main activities and responsibilities:
 
@@ -46,7 +47,8 @@ Main activities and responsibilities:
 |Position Held |Full stack Senior Developer - Team Leader
 |Project description | Mapping Assistant: Re-writing of a desktop application as a Single Page Web Application
 |Client | EUROSTAT
-|Technologies and methodologies |Agile, Jira, Bamboo (CI), Git, REST, Java 8, Spring Boot 1.x, React.js
+|Methodology |  Agile
+|Technologies | Jira, Bamboo (CI), Git, REST, Java 8, Spring Boot 1.x, React.js
 2+a|
 Main activities and responsibilities:
 
@@ -63,7 +65,8 @@ Main activities and responsibilities:
 |Position held |Project Manager 
 |Project description | Homebank : Personal finance management application
 |Client |AlphaCredit Belgium
-|Technologies and methodologies |Waterfall, MS Project, MS Word, MS Excel, Jira, Git, Confluence
+|Methodology | Waterfall
+|Technologies | MS Project, MS Word, MS Excel, Jira, Git, Confluence
 |Technologies | Java 7, JEE 7, SOAP, Web Services, XML, JEE 7 (mostly JAX-WS, CDI, JPA), WebSphere Application Server
 2+a|
 Main activities and responsibilities:
@@ -90,7 +93,8 @@ Main activities and responsibilities:
 |Position Held |Senior Developer - Team Leader
 |Project description |Wizard-like web application to help users build and automate their interactions with the SDMX infrastructure
 |Client |EUROSTAT
-|Technologies and methodologies |Agile, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 8; Spring Web Flow, Bootstrap 3.0, JQuery, Spring Framework, CentOS, Windows
+|Methodology | Agile
+|Technologies | Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 8; Spring Web Flow, Bootstrap 3.0, JQuery, Spring Framework, CentOS, Windows
 2+a|
 Main activities and responsibilities:
 
@@ -107,7 +111,8 @@ Main activities and responsibilities:
 |Position Held |Technical Project Manager
 |Project description |SDMX Tools Maintenance : A suite of tools promoted by EUROSTAT to the Member States and used in order to automate the periodic exchanges of statistical data between the Member States and EUROSTAT. 
 |Client |EUROSTAT
-|Technologies and methodologies |Agile, MS Project, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 1.5; HTML; JavaScript; Web Services; Spring Framework; XML., MS Windows, CentOS
+|Methodology | Agile
+|Technologies | MS Project, Jira, Bamboo, Git, REST; SDMX 2.0; SDMX 2.1; Java 1.5; HTML; JavaScript; Web Services; Spring Framework; XML., MS Windows, CentOS
 2+a|
 Main activities and responsibilities:
 
@@ -133,7 +138,8 @@ Main activities and responsibilities:
 |Position Held |Senior Analyst-Programmer 
 |Project description |ICISNET CUSTOMS (V.601108) : ICISnet is a modern customs system for Greek customs implementing EU and national regulations. Its scope is to fully cover customs officers’ needs as well as traders and / or citizens who are dealing with customs era. The system interfaces with external systems either EU or National ones applying safety regulations imposed by EU and / or Greek authorities and laws. It's developed through 18 modules/applications which cover every activity, transaction, operation of Greek customs. It is a centralised system developed with the most recent technologies and methodologies. The ICISnet system is related to the implementation of EU Decisions and Directives and is operational on a 24/7 basis. ICISNET is considered to be a high volume data system as the number of users is 2,000 (long-term the system will be used from 10,000 users).
 |Client |Ministry of Finance of Greece (KTP)
-|Technologies and methodologies |Agile, Spring Webflow; Weblogic Server 10.3; JEE (Java Platform, Enterprise Edition), Spring Integration, JMS, SOAP web services, Arch Linux, MS Windows
+|Methodology | Agile
+|Technologies | Spring Webflow, Weblogic Server 10.3; JEE (Java Platform, Enterprise Edition), Spring Integration, JMS, SOAP web services, Arch Linux, MS Windows
 2+a|
 Main activities and responsibilities:
 
@@ -151,7 +157,8 @@ Main activities and responsibilities:
 |Position Held |Deputy Project Manager 
 |Project description |OHIM-SMS :The project concerned the provision of corrective, adaptive and preventive maintenance of software relating to the Office’s core business information systems for trademark and design registration. These systems cover the complete life-cycle and business process of a Community Trade Mark or Registered Community Design such as services for examination, opposition and cancellation, payment, communication between customer and the Office and access to specific services, e.g. classification tools
 |Client |Office for Harmonization in the Internal Market - OHIM
-|Technologies and methodologies |MS Project, Jira, SVN, Java 1.5; HTML; JavaScript; Web Services; Weblogic,Spring Framework; XML., MS Windows
+|Methodology | Waterfall
+|Technologies | MS Project, Jira, SVN, Java 1.5; HTML; JavaScript; Web Services; Weblogic,Spring Framework; XML., MS Windows
 2+a|
 Main activities and responsibilities:
 
@@ -177,7 +184,8 @@ Main activities and responsibilities:
 |Position Held |Team Leader 
 |Project description |Consular Protection Website : The system is a complete content management system with three main content categories organized: 1) information about Consular Protection provided mutually by all European Embassies to European Citizens outside European Union, 2) Contact information for all European Embassies in countries outside EU, and 3) Official Travel Advice information relayed from Cool web site. The website provides the information also in a format compatible with mobile devices.
 |Client |European Commission - Justice (DG JUST)
-|Technologies and methodologies used: |Alfresco DMS, MS Windows, Java, JavaScript, Rest, Struts2, Tomcat, Linux
+|Methodology | Waterfall
+|Technologies u sed: | Alfresco DMS, MS Windows, Java, JavaScript, Rest, Struts2, Tomcat, Linux
 2+a|
 Main activities and responsibilities:
 
@@ -193,8 +201,9 @@ Main activities and responsibilities:
 |Type of business or sector |IT Services 
 |Position Held |Team Leader 
 |Project description |EUBOOKSHOP - EU Bookshop : EU Bookshop is an online service that aims to provide a single access point to citizens and businesses for various publications of the European institutions, agencies and other bodies, published and/or catalogued by the Publications Office. Publications may be downloaded directly from the site or ordered. EU Bookshop provides simple and advanced search functions as well as browsing functionalities. Furthermore, users can sign up to ‘My EU Bookshop’ and access personalized functions: search queries can be saved for regular use or the user can choose to be notified by e-mail about publications of interest.
-|Client |Publications Office of the European Union (OPOCE) 
-|Technologies and methodologies |Tomcat 5.x, Java 1.5, Spring, Struts2, MS Windows, Linux, JIRA
+|Client |Publications Office of the European Union (OPOCE)
+|Methodology | Waterfall
+|Technologies | Tomcat 5.x, Java 1.5, Spring, Struts2, MS Windows, Linux, JIRA
 2+a|
 Main activities and responsibilities:
 
@@ -214,7 +223,8 @@ Main activities and responsibilities:
 |Position Held |Senior Java Programmer 
 |Project description |FISH1 – DG Fisheries – R.904: The mission of the Data Collection System is to collect, store and aggregate data that are derived from the national programmes set up by the Member States of the European Union in accordance with the Commission Regulation (No. 1639/2001). Transmissions of data have been automated and are carried out through a formalised data communication process facilitated by the project within a delimited time period. 
 |Client |European Commission - Maritime Affairs and Fisheries (DG MARE)
-|Technologies and methodologies |MS Windows, JIRA, ColdFusion, Fusebox, Java, HTML, XML, Rational Unified Process
+|Methodology | Rational Unified Process
+|Technologies | MS Windows, JIRA, ColdFusion, Fusebox, Java, HTML, XML
 2+a|
 Main activities and responsibilities:
 
@@ -232,9 +242,13 @@ Main activities and responsibilities:
 |Employer |INTRACOM
 |Type of business or sector |IT Services 
 |Position Held |Senior Programmer 
-|Project description |RPL The RPL web application's purpose was to allow statisticians build queries on the census data without having any SQL knowledge. This visual query builder was a wizard-like application where every step translated a certain SQL feature into statistics friendly inputs. The final query result was displayed as a pivot table and allowed export in several formats.
+|Project description
+|RPL : web query builder on the census data without any SQL knowledge.
+This visual query builder was a wizard-like application where every step translated a certain SQL feature into statistics friendly inputs.
+The final query result was displayed as a pivot table and allowed export in several formats.
 |Client |Romanian National Institute for Statistics (INS)
-|Technologies and methodologies |MS Windows, Linux, J2EE; Hibernate Framework Model 2.2/3; Servlet 2.3/JSP 1.2; Tomcat 5.x
+|Methodology | Waterfall
+|Technologies | MS Windows, Linux, J2EE; Hibernate Framework Model 2.2/3; Servlet 2.3/JSP 1.2; Tomcat 5.x
 2+a|
 Main activities and responsibilities:
 
@@ -253,7 +267,8 @@ Main activities and responsibilities:
 |Position Held |Programmer 
 |Project description |IPST : IPST is an applications designed for the management of production of electrical parts for cars.
 |Client |Internal project
-|Technologies and methodologies |J2EE; Servlet 2.3/ JSP 1.2; JBoss 4.0.2; website content design; Toad for Oracle 8.x; JUnit Framework 3.8.1
+|Methodology | Waterfall
+|Technologies | J2EE; Servlet 2.3/ JSP 1.2; JBoss 4.0.2; website content design; Toad for Oracle 8.x; JUnit Framework 3.8.1
 2+a|
 Main activities and responsibilities:
 
@@ -272,7 +287,8 @@ Main activities and responsibilities:
 |Position Held |Junior Programmer 
 |Project description |Asig 4.0 : Asig 4.0 is a J2EE application meant to manage the insurance process of a big insurance company. Asig 4.0 had all features needed: from client and risk management to insurance-premiums computation.
 |Client |Asirag
-|Technologies and methodologies |MS Office; Orion Application Server; Java 1.4; JBuilder
+|Methodology | Waterfall
+|Technologies | MS Office; Orion Application Server; Java 1.4; JBuilder
 2+a|
 Main activities and responsibilities:
 
