@@ -297,7 +297,9 @@ Main activities and responsibilities:
 
 == Education and training
 
-=== Postgraduate in Information Technology
+=== Formal education
+
+==== Postgraduate in Information Technology
 |===
 |Dates (from – to) |10/2000 – 10/2002
 |Name and type of organisation providing education and training |University of Pitesti 
@@ -306,7 +308,7 @@ Main activities and responsibilities:
 |Level in national classification |EQF Level 7
 |===
 
-=== BSc in Mathematics
+==== BSc in Mathematics
 |===
 |Dates (from – to) |10/1995 – 10/1999
 |Name and type of organisation providing education and training |University of Pitesti 
@@ -315,16 +317,29 @@ Main activities and responsibilities:
 |Level in national classification |EQF Level 6
 |===
 
-=== MongoDB certification
+=== Informal education
+
+==== JPA and Hibernate fundamentals
+
+image:./certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link="./certifications/UC-FE36ZNL4.jpg"]
+|===
+|Dates (from – to) |01/12/2016 – 28/12/2016
+|Name and type of organisation providing education and training |Udemy
+|Principal subjects/occupational |Java Persistence: JPA and Hibernate fundamentals
+|Title of qualification awarded |Certification of Completion
+|===
+
+
+==== MongoDB certification
+
 |===
 |Dates (from – to) |01/09/2015 – 31/10/2015
 |Name and type of organisation providing education and training |MongoDB University 
 |Principal subjects/occupational |MongoDB for Java Developers 
 |Title of qualification awarded |Certification of Course Completion
-|Level in national classification |N/A 
 |===
 
-=== Functional Programming Principles
+==== Functional Programming Principles
 |===
 |Dates (from – to) |01/06/2015 – 31/07/2015
 |Name and type of organisation providing education and training |Coursera.org by École Polytechnique Fédérale de Lausanne 
@@ -332,7 +347,7 @@ Main activities and responsibilities:
 |Title of qualification awarded |Certificate of Excellence 
 |===
 
-=== CMMI certification
+==== CMMI certification
 |===
 |Dates (from – to) |23/06/2011 – 25/06/2011
 |Name and type of organisation providing education and training |CUNIX Info Tech 
@@ -340,7 +355,7 @@ Main activities and responsibilities:
 |Title of qualification awarded |N/A 
 |===
 
-=== Alfresco training
+==== Alfresco training
 |===
 |Dates (from – to) |01/01/2011 – 31/03/2011
 |Name and type of organisation providing education and training |Personal training 
@@ -348,7 +363,7 @@ Main activities and responsibilities:
 |Title of qualification awarded |N/A 
 |===
 
-=== SCJP Java Certification
+==== SCJP Java Certification
 |===
 |Dates (from – to) |01/01/2007 – 01/06/2007
 |Name and type of organisation providing education and training |Sun 
@@ -356,7 +371,7 @@ Main activities and responsibilities:
 |Title of qualification awarded |SUN - SCJP- certification 
 |===
 
-=== PLSQL course
+==== PLSQL course
 |===
 |Dates (from – to) |01/06/2006 – 15/06/2006
 |Name and type of organisation providing education and training |Oracle Romania 
@@ -364,7 +379,7 @@ Main activities and responsibilities:
 |Title of qualification awarded |Attendance certificate 
 |===
 
-=== Coldfusion training
+==== Coldfusion training
 |===
 |Dates (from – to) |01/12/2004 – 31/12/2004
 |Name and type of organisation providing education and training |Personal training 
