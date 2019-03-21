@@ -40,3 +40,6 @@ Convert using pandoc
 
 # Todo
 see if you can add table of references with links to projects where those technologies were used
+
+# todo site
+configurations still to be done : http://jmcglone.com/guides/github-pages/
