@@ -44,10 +44,7 @@ pandoc cv.xml --from docbook --to docx -o cv.docx
 pandoc cv.xml --from docbook --to latex -o cv.pdf
 ```
 
-
 # Documentation
 * [asciidoc](https://powerman.name/doc/asciidoc)
 * [asciidoctor](https://asciidoctor.org/docs/user-manual/#introduction-to-asciidoctor)
 
-# Todo
- table of references with links to projects

@@ -1,9 +1,12 @@
 = Dragos Balan
+Java/Scala/BigData developer and project manager
+:toc: left
 
+
+== Short description
 A seasoned java/scala developer having a a full overview over the software
 development lifecycle (as depicted by his development and project  management skills) currently
 working as a senior big data developer in the audio advertising industry.
-
 
 == Personal information
 
