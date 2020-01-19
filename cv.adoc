@@ -1,7 +1,7 @@
 = Dragos Balan
 
 A seasoned java/scala developer having a a full overview over the software
-development lifecycle (as depicted by his project management skills) currently
+development lifecycle (as depicted by his development and project  management skills) currently
 working as a senior big data developer in the audio advertising industry.
 
 
@@ -11,7 +11,7 @@ working as a senior big data developer in the audio advertising industry.
 |===
 |Name |BALAN Dragos
 |Address |Bucharest, sos. Berceni, nr. 8 
-|Telephone |+40 742038765
+|Telephone |+40 742...
 |E-mail| dragos.balan@gmail.com
 |Nationality |Romanian 
 |Date of birth |10/08/1976 
@@ -33,9 +33,10 @@ working as a senior big data developer in the audio advertising industry.
 2+a|
 Main activities and responsibilities:
 
-* Improve the horizontal scalability of existing applications by reverse-engineering them using mainly Spark and Scala
+* Improve the horizontal scalability of existing applications by rewriting and reverse-engineering using Spark and Scala
 * Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients
 * Perform unit / integration / Load and performance testing
+* Document the newly created systems
 |===
 
 === 02/2016 – 10/2017
@@ -331,7 +332,7 @@ image:./certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link=
 
 
 ==== MongoDB certification
-
+image:./certifications/MongoCertification.png["MongoDb for Java Developers", width=128, link="./certifications/MongoCertification.png"]
 |===
 |Dates (from – to) |01/09/2015 – 31/10/2015
 |Name and type of organisation providing education and training |MongoDB University 
@@ -339,7 +340,8 @@ image:./certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link=
 |Title of qualification awarded |Certification of Course Completion
 |===
 
-==== Functional Programming Principles
+==== Functional Programming Principles in Scala
+image:./certifications/FPPinScalaCertification.png["Functional programming principles", width=128, link="./certifications/FPPinScalaCertification.png"]
 |===
 |Dates (from – to) |01/06/2015 – 31/07/2015
 |Name and type of organisation providing education and training |Coursera.org by École Polytechnique Fédérale de Lausanne 

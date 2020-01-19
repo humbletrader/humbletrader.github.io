@@ -20,18 +20,29 @@ apt install pandoc
 
 # How to convert
 Using asciidoc: 
+```bash
 a2x --format pdf cv.adoc
+```
 
 Full conversion from adoc to docx: 
+```bash
 asciidoctor --backend docbook  --out-file - cv.adoc | pandoc --from docbook --to docx --output cv.docx
+```
 
 Convert to html5: 
+```bash
 asciidoctor --backend html5 -a data-uri cv.adoc
+```
 
 Convert using pandoc 
-
-* to docx: pandoc cv.xml --from docbook --to docx -o cv.docx
-* to pdf: pandoc cv.xml --from docbook --to latex -o cv.pdf
+* to docx: 
+```bash
+pandoc cv.xml --from docbook --to docx -o cv.docx
+```
+* to pdf: 
+```bash
+pandoc cv.xml --from docbook --to latex -o cv.pdf
+```
 
 
 # Documentation
@@ -39,7 +50,4 @@ Convert using pandoc
 * [asciidoctor](https://asciidoctor.org/docs/user-manual/#introduction-to-asciidoctor)
 
 # Todo
-see if you can add table of references with links to projects where those technologies were used
-
-# todo site
-configurations still to be done : http://jmcglone.com/guides/github-pages/
+ table of references with links to projects
