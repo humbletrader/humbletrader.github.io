@@ -32,7 +32,7 @@ working as a senior big data developer in the audio advertising industry.
 |Project description |Inventory Forecast 
 |Client |Internal project
 |Methodology | Agile
-|Technologies | Jira, Git, Java 8, Scala 2.11, Spring Boot 1.x, Apache Spark 2.x, AWS, Elastic Map Reduce, Amazon Redshift, Functional Programming
+|Technologies | Scala 2.11, Java 8, Spring Boot 1.x, Apache Spark 2.x, AWS, AWS S3,  Elastic Map Reduce, Amazon Redshift, Jira, Jenkins, Git
 2+a|
 Main activities and responsibilities:
 
