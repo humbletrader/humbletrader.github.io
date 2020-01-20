@@ -22,13 +22,13 @@ working as a senior big data developer in the audio advertising industry.
 
 == Work experience
 
-=== 10/2017 - present
+=== TL, big data, scala (10/2017 - present)
 [cols="1,3"]
 //.Current Job
 |===
 |Employer |Adswizz
 |Business |Audio Advertising 
-|Position held |Senior Developer for Big Data Apps 
+|Position held |Senior Developer for  Big Data Apps, Team Lead
 |Project description |Inventory Forecast 
 |Client |Internal project
 |Methodology | Agile
@@ -40,9 +40,10 @@ Main activities and responsibilities:
 * Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients
 * Perform unit / integration / Load and performance testing
 * Document the newly created systems
+* Coordinate a team of 3-5 devs
 |===
 
-=== 02/2016 – 10/2017
+=== TL, full stack java (02/2016 – 10/2017)
 [cols="1,3"]
 //.Previous job
 |===
@@ -60,13 +61,13 @@ Main activities and responsibilities:
 * Unit testing
 |===
 
-=== 09/2016 – 02/2017
+=== project manager (09/2016 – 02/2017)
 [cols="1,3"]
 //.2016-2017
 |===
 |Employer |Central Europe Technologies (part of BNP-Paribas group)
 |Business |Banking - Personal Finance 
-|Position held |Project Manager 
+|Position held |Project Manager - Java JEE based projects
 |Project description | Homebank : Personal finance management application
 |Client |AlphaCredit Belgium
 |Methodology | Waterfall
@@ -88,13 +89,13 @@ Main activities and responsibilities:
 * Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience
 |===
 
-=== 01/2016 – 09/2016
+=== TL, full stack java (01/2016 – 09/2016)
 [cols="1,3"]
 //.2016
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services
-|Position Held |Senior Developer - Team Leader
+|Position Held |Senior Full Stack Java Developer - Team Leader
 |Project description |Wizard-like web application to help users build and automate their interactions with the SDMX infrastructure
 |Client |EUROSTAT
 |Methodology | Agile
@@ -106,13 +107,13 @@ Main activities and responsibilities:
 * Team coordination (aprox. 5 persons)
 |===
 
-=== 04/2013 – 01/2016
+=== technical PM (04/2013 – 01/2016)
 [cols="1,3"]
 //.2013-2016
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services
-|Position Held |Technical Project Manager
+|Position Held |Technical Project Manager - Java and .Net projects
 |Project description |SDMX Tools Maintenance : A suite of tools promoted by EUROSTAT to the Member States and used in order to automate the periodic exchanges of statistical data between the Member States and EUROSTAT. 
 |Client |EUROSTAT
 |Methodology | Agile
@@ -133,13 +134,13 @@ Main activities and responsibilities:
 * Provide effective leadership for the project group ensuring that group members are motivated and constantly developing their skills and experience
 |===
 
-=== 06/2012 – 03/2013
+=== sr. dev jee (06/2012 – 03/2013)
 [cols="1,3"]
 //.2012-2013
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
-|Position Held |Senior Analyst-Programmer 
+|Position Held |Senior Analyst-Programmer Java JEE 
 |Project description |ICISNET CUSTOMS (V.601108) : ICISnet is a modern customs system for Greek customs implementing EU and national regulations. Its scope is to fully cover customs officers’ needs as well as traders and / or citizens who are dealing with customs era. The system interfaces with external systems either EU or National ones applying safety regulations imposed by EU and / or Greek authorities and laws. It's developed through 18 modules/applications which cover every activity, transaction, operation of Greek customs. It is a centralised system developed with the most recent technologies and methodologies. The ICISnet system is related to the implementation of EU Decisions and Directives and is operational on a 24/7 basis. ICISNET is considered to be a high volume data system as the number of users is 2,000 (long-term the system will be used from 10,000 users).
 |Client |Ministry of Finance of Greece (KTP)
 |Methodology | Agile
@@ -152,13 +153,13 @@ Main activities and responsibilities:
 |===
 
 
-=== 10/2010 – 05/2012
+=== project manager (10/2010 – 05/2012)
 [cols="1,3"]
 //.2010-2012
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
-|Position Held |Deputy Project Manager 
+|Position Held |Deputy Project Manager - Java Projects
 |Project description |OHIM-SMS :The project concerned the provision of corrective, adaptive and preventive maintenance of software relating to the Office’s core business information systems for trademark and design registration. These systems cover the complete life-cycle and business process of a Community Trade Mark or Registered Community Design such as services for examination, opposition and cancellation, payment, communication between customer and the Office and access to specific services, e.g. classification tools
 |Client |Office for Harmonization in the Internal Market - OHIM
 |Methodology | Waterfall
@@ -179,13 +180,13 @@ Main activities and responsibilities:
 |===
 
 
-=== 01/2009 – 11/2010
+=== TL, full stack java (01/2009 – 11/2010)
 [cols="1,3"]
 //.2009-2010
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services
-|Position Held |Team Leader 
+|Position Held |Team Leader - Full stack java
 |Project description |Consular Protection Website : The system is a complete content management system with three main content categories organized: 1) information about Consular Protection provided mutually by all European Embassies to European Citizens outside European Union, 2) Contact information for all European Embassies in countries outside EU, and 3) Official Travel Advice information relayed from Cool web site. The website provides the information also in a format compatible with mobile devices.
 |Client |European Commission - Justice (DG JUST)
 |Methodology | Waterfall
@@ -197,13 +198,13 @@ Main activities and responsibilities:
 * Recreated the architecture for the above specified sites and design the integration with Alfresco document management system.
 |===
 
-=== 04/2007 – 12/2008
+=== TL, full stack java (04/2007 – 12/2008)
 [cols="1,3"]
 //.2007-2008
 |===
 |Employer |INTRASOFT International SA
 |Type of business or sector |IT Services 
-|Position Held |Team Leader 
+|Position Held |Team Leader - Full stack java
 |Project description |EUBOOKSHOP - EU Bookshop : EU Bookshop is an online service that aims to provide a single access point to citizens and businesses for various publications of the European institutions, agencies and other bodies, published and/or catalogued by the Publications Office. Publications may be downloaded directly from the site or ordered. EU Bookshop provides simple and advanced search functions as well as browsing functionalities. Furthermore, users can sign up to ‘My EU Bookshop’ and access personalized functions: search queries can be saved for regular use or the user can choose to be notified by e-mail about publications of interest.
 |Client |Publications Office of the European Union (OPOCE)
 |Methodology | Waterfall
@@ -218,7 +219,7 @@ Main activities and responsibilities:
 |===
 
 
-=== 12/2004 – 03/2007
+=== sr. java dev (12/2004 – 03/2007)
 [cols="1,3"]
 //.2004-2007
 |===
@@ -239,7 +240,7 @@ Main activities and responsibilities:
 |===
 
 
-=== 06/2004 – 12/2004
+=== sr. java dev (06/2004 – 12/2004)
 [cols="1,3"]
 //.2004
 |===
@@ -262,7 +263,7 @@ Main activities and responsibilities:
 |===
 
 
-=== 06/2003 – 06/2004
+=== java dev (06/2003 – 06/2004)
 [cols="1,3"]
 //.2003-2004
 |===
@@ -282,7 +283,7 @@ Main activities and responsibilities:
 * Write unit tests
 |===
 
-=== 06/2002 – 06/2003
+=== java dev (06/2002 – 06/2003)
 [cols="1,3"]
 //.2002-2003
 |===
