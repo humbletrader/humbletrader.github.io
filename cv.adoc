@@ -14,7 +14,7 @@ working as a senior big data developer in the audio advertising industry.
 |===
 |Name |BALAN Dragos
 |Address |Bucharest, sos. Berceni, nr. 8 
-|Telephone |+40 742...
+|Telephone |(+40) 74...
 |E-mail| dragos.balan@gmail.com
 |Nationality |Romanian 
 |Date of birth |10/08/1976 
@@ -36,8 +36,8 @@ working as a senior big data developer in the audio advertising industry.
 2+a|
 Main activities and responsibilities:
 
-* Improve the horizontal scalability of existing applications by rewriting and reverse-engineering using Spark and Scala
-* Ensure the capability of ingestion of hundreds of GB of data for hundreds of clients
+* Improve the horizontal scalability of existing applications by rewriting and reverse-engineering using Spark Core (RDDs) and Scala
+* Ensure the capability of ingestion of hundreds of TB of data 
 * Perform unit / integration / Load and performance testing
 * Document the newly created systems
 * Coordinate a team of 3-5 devs
