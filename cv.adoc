@@ -393,6 +393,12 @@ image:./certifications/FPPinScalaCertification.png["Functional programming princ
 |Title of qualification awarded |N/A 
 |===
 
+=== Several technical talks I've given
+
+https://www.slideshare.net/DragosBalan2/maven-tutorial-53295048[Maven Tutorial - February 2011]
+
+https://www.slideshare.net/DragosBalan2/functional-programming-principles-and-java-8[Functional Programming Principles and Java 8 - April 2015]
+
 == Personal skills and competences
 
 === Languages
