@@ -324,8 +324,17 @@ Main activities and responsibilities:
 
 === Informal education
 
-==== JPA and Hibernate fundamentals
+==== Lightbend Akka for Scala Professional - Level 1
+image:./certifications/lightbend-akka-for-scala-professional-level-1.png["Akka certificate", width=180, link="https://www.youracclaim.com/badges/47616aa5-405f-4838-91d6-3641d22b93c2/public_url"]
+|===
+|Dates (from-to) |07/04/2020-13/04/2020
+|Organization providing education | Lightbend Academy
+|Principal subjects | Akka Framework 
+|Title of qualificaiton awarded | Certification of completion
+|===
 
+
+==== JPA and Hibernate fundamentals
 image:./certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link="./certifications/UC-FE36ZNL4.jpg"]
 |===
 |Dates (from – to) |01/12/2016 – 28/12/2016
