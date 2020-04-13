@@ -2,11 +2,9 @@
 Java/Scala/BigData developer and project manager
 :toc: left
 
+image:./assets/img/dragos.png["Dragos", 300, 300, float="right", align="center"] A seasoned java/scala developer having a a full overview over the software
+development lifecycle (as depicted by his development and project  management skills) currently working as a senior big data developer in the audio advertising industry
 
-== Short description
-A seasoned java/scala developer having a a full overview over the software
-development lifecycle (as depicted by his development and project  management skills) currently
-working as a senior big data developer in the audio advertising industry.
 
 == Personal information
 
