@@ -335,7 +335,7 @@ image:./assets/certifications/lightbend-akka-for-scala-professional-level-1.png[
 
 
 ==== JPA and Hibernate fundamentals
-image:./assets/certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link="./certifications/UC-FE36ZNL4.jpg"]
+image:./assets/certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link="./assets/certifications/UC-FE36ZNL4.jpg"]
 |===
 |Dates (from – to) |01/12/2016 – 28/12/2016
 |Name and type of organisation providing education and training |Udemy
@@ -345,7 +345,7 @@ image:./assets/certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128
 
 
 ==== MongoDB certification
-image:./assets/certifications/MongoCertification.png["MongoDb for Java Developers", width=128, link="./certifications/MongoCertification.png"]
+image:./assets/certifications/MongoCertification.png["MongoDb for Java Developers", width=128, link="./assets/certifications/MongoCertification.png"]
 |===
 |Dates (from – to) |01/09/2015 – 31/10/2015
 |Name and type of organisation providing education and training |MongoDB University 
@@ -354,7 +354,7 @@ image:./assets/certifications/MongoCertification.png["MongoDb for Java Developer
 |===
 
 ==== Functional Programming Principles in Scala
-image:./assets/certifications/FPPinScalaCertification.png["Functional programming principles", width=128, link="./certifications/FPPinScalaCertification.png"]
+image:./assets/certifications/FPPinScalaCertification.png["Functional programming principles", width=128, link="./assets/certifications/FPPinScalaCertification.png"]
 |===
 |Dates (from – to) |01/06/2015 – 31/07/2015
 |Name and type of organisation providing education and training |Coursera.org by École Polytechnique Fédérale de Lausanne 
