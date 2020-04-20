@@ -322,8 +322,19 @@ Main activities and responsibilities:
 
 === Informal education
 
+
+==== Datastax Foundations of Apache Cassandra
+image:./assets/certifications/ds210-cassandra.png["Cassandra Foundations", width=128, link="./assets/certifications/ds210-cassandra.png"]
+|===
+|Dates (from-to) |14/04/2020 - 20/04/2020
+|Name and type of organizaiton providing education|Datastax
+|Principal subjects/occupational | Datastax Enterprise 6 : Cassandra Foundations
+|Title of qualification awarded | Certification of completion
+|===
+
+
 ==== Lightbend Akka for Scala Professional - Level 1
-image:./assets/certifications/lightbend-akka-for-scala-professional-level-1.png["Akka certificate", width=180, link="https://www.youracclaim.com/badges/47616aa5-405f-4838-91d6-3641d22b93c2/public_url"]
+image:./assets/certifications/lightbend-akka-for-scala-professional-level-1.png["Akka certificate", width=128, link="https://www.youracclaim.com/badges/47616aa5-405f-4838-91d6-3641d22b93c2/public_url"]
 |===
 |Dates (from-to) |07/04/2020-13/04/2020
 |Organization providing education | Lightbend Academy
