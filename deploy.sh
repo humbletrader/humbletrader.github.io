@@ -11,6 +11,6 @@ mv cv.html index.html
 
 # then add the newly created files to git
 git add assets
-dit add index.html
+git add index.html
 git commit -m "new version of cv"
 git push
