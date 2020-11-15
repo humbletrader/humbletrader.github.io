@@ -1,11 +1,14 @@
 # How to build the cv
+
 ```shell script
 mvn 
 ```
 this will generate everything into target/generated-docs
 
+# How to deploy the CV
+
 ```shell script
-cp ./target/generated-docs/* .
+./deploy.sh
 ```
 
 # Links
