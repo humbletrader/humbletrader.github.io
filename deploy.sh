@@ -10,5 +10,7 @@ cp -r target/generated-docs/** .
 mv cv.html index.html
 
 # then add the newly created files to git
-git commit -am "new version of cv"
+git add assets
+dit add index.html
+git commit -m "new version of cv"
 git push
