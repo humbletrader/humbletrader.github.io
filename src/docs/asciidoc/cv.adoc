@@ -1,8 +1,7 @@
 = Dragos Balan
 Java/Scala/BigData developer and project manager
-:toc: left
 
-image:./assets/img/dragos.png["Dragos", 300, 300, float="right", align="center"] A seasoned java/scala developer having a a full overview over the software
+image:dragos.png["Dragos", 300, 300, float="right", align="center"] A seasoned java/scala developer having a a full overview over the software
 development lifecycle (as depicted by his development and project  management skills) currently working as a senior big data developer in the audio advertising industry
 
 
@@ -324,7 +323,7 @@ Main activities and responsibilities:
 
 
 ==== Datastax Foundations of Apache Cassandra
-image:./assets/certifications/ds210-cassandra.png["Cassandra Foundations", width=128, link="./assets/certifications/ds210-cassandra.png"]
+image:ds210-cassandra.png["Cassandra Foundations", width=128, link="./assets/certifications/ds210-cassandra.png"]
 |===
 |Dates (from-to) |14/04/2020 - 20/04/2020
 |Name and type of organizaiton providing education|Datastax
@@ -334,7 +333,7 @@ image:./assets/certifications/ds210-cassandra.png["Cassandra Foundations", width
 
 
 ==== Lightbend Akka for Scala Professional - Level 1
-image:./assets/certifications/lightbend-akka-for-scala-professional-level-1.png["Akka certificate", width=128, link="https://www.youracclaim.com/badges/47616aa5-405f-4838-91d6-3641d22b93c2/public_url"]
+image:lightbend-akka-for-scala-professional-level-1.png["Akka certificate", width=128, link="https://www.youracclaim.com/badges/47616aa5-405f-4838-91d6-3641d22b93c2/public_url"]
 |===
 |Dates (from-to) |07/04/2020-13/04/2020
 |Organization providing education | Lightbend Academy
@@ -344,7 +343,7 @@ image:./assets/certifications/lightbend-akka-for-scala-professional-level-1.png[
 
 
 ==== JPA and Hibernate fundamentals
-image:./assets/certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link="./assets/certifications/UC-FE36ZNL4.jpg"]
+image:UC-FE36ZNL4.jpg["Hibernate certificate", width=128, link="./assets/certifications/UC-FE36ZNL4.jpg"]
 |===
 |Dates (from – to) |01/12/2016 – 28/12/2016
 |Name and type of organisation providing education and training |Udemy
@@ -354,7 +353,7 @@ image:./assets/certifications/UC-FE36ZNL4.jpg["Hibernate certificate", width=128
 
 
 ==== MongoDB certification
-image:./assets/certifications/MongoCertification.png["MongoDb for Java Developers", width=128, link="./assets/certifications/MongoCertification.png"]
+image:MongoCertification.png["MongoDb for Java Developers", width=128, link="./assets/certifications/MongoCertificate.pdf"]
 |===
 |Dates (from – to) |01/09/2015 – 31/10/2015
 |Name and type of organisation providing education and training |MongoDB University 
@@ -363,7 +362,7 @@ image:./assets/certifications/MongoCertification.png["MongoDb for Java Developer
 |===
 
 ==== Functional Programming Principles in Scala
-image:./assets/certifications/FPPinScalaCertification.png["Functional programming principles", width=128, link="./assets/certifications/FPPinScalaCertification.png"]
+image:FPPinScalaCertification.png["Functional programming principles", width=128, link="./assets/certifications/FPPinScalaCertification.png"]
 |===
 |Dates (from – to) |01/06/2015 – 31/07/2015
 |Name and type of organisation providing education and training |Coursera.org by École Polytechnique Fédérale de Lausanne 
@@ -411,13 +410,13 @@ image:./assets/certifications/FPPinScalaCertification.png["Functional programmin
 |Title of qualification awarded |N/A 
 |===
 
-=== Several technical talks I've given
+=== Technical talks
 
-https://www.slideshare.net/DragosBalan2/maven-tutorial-53295048[Maven Tutorial - February 2011]
+* https://www.slideshare.net/DragosBalan2/maven-tutorial-53295048[Maven Tutorial - February 2011]
 
-https://www.slideshare.net/DragosBalan2/functional-programming-principles-and-java-8[Functional Programming Principles and Java 8 - April 2015]
+* https://www.slideshare.net/DragosBalan2/functional-programming-principles-and-java-8[Functional Programming Principles and Java 8 - April 2015]
 
-https://github.com/humbletrader/spark-best-practices/blob/master/src/docs/asciidoc/presentation.adoc[Troubleshooting Spark Issues]
+* https://github.com/humbletrader/spark-best-practices/blob/master/src/docs/asciidoc/presentation.adoc[Troubleshooting Spark Issues]
 
 == Personal skills and competences
 
