@@ -416,7 +416,7 @@ image:FPPinScalaCertification.png["Functional programming principles", width=128
 
 * https://www.slideshare.net/DragosBalan2/functional-programming-principles-and-java-8[Functional Programming Principles and Java 8 - April 2015]
 
-* https://github.com/humbletrader/spark-best-practices/blob/master/src/docs/asciidoc/presentation.adoc[Troubleshooting Spark Issues]
+* https://humbletrader.github.io/spark-best-practices/[Troubleshooting Spark Issues]
 
 == Personal skills and competences
 
