@@ -4,6 +4,7 @@
 rm -rf assets
 rm -f index.html
 
+mvn 
 
 # then we copy the newly created cv and its assets
 cp -r target/generated-docs/** .
