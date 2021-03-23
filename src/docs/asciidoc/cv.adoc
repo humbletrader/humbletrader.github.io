@@ -321,7 +321,7 @@ Main activities and responsibilities:
 
 === Informal education
 
-=== Java Memory Management ( LinkedIn )
+=== Java Memory Management
 image:JavaMemoryManagementCertificate.png["Java Memory Management", width=128, link="./assets/certifications/CertificateOfCompletion_Java_Memory_Management.pdf"]
 |===
 |Dates (from-to) |01/03/2021 - 08/03/2021
@@ -330,7 +330,7 @@ image:JavaMemoryManagementCertificate.png["Java Memory Management", width=128, l
 |Title of qualification awarded | Certification of completion
 |===
 
-==== Foundations of Apache Cassandra ( Datastax )
+==== Foundations of Apache Cassandra
 image:ds210-cassandra.png["Cassandra Foundations", width=128, link="./assets/certifications/ds210-cassandra.png"]
 |===
 |Dates (from-to) |14/04/2020 - 20/04/2020
