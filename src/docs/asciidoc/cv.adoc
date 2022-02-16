@@ -29,7 +29,7 @@ development lifecycle (as depicted by his development and project  management sk
 |Project description |Inventory Forecast 
 |Client |Internal project
 |Methodology | Agile
-|Technologies | Scala 2.11, Java 8, Spring Boot 1.x, Apache Spark 2.x, AWS, AWS S3,  Elastic Map Reduce, Amazon Redshift, Jira, Jenkins, Git
+|Technologies | Scala 2.12, Java 8, Spring Boot 1.x, Apache Spark 3.x, AWS, AWS S3,  Elastic Map Reduce, Amazon Redshift, Snowflake, Jira, Jenkins, Git
 2+a|
 Main activities and responsibilities:
 
