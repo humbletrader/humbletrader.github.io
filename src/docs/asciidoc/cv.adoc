@@ -322,7 +322,7 @@ Main activities and responsibilities:
 === Informal education
 
 ==== Rock The JVM : Cats
-image:certificate_of_completion.jpg["Cats", width=128, link="./assets/certifications/certificate-of-completion-for-cats.pdf"]
+image:certificate_of_completion_cats.jpg["Cats", width=128, link="./assets/certifications/certificate-of-completion-for-cats.pdf"]
 |===
 |Dates (from-to) |01/12/2022 - 13/03/2021
 |Name and type of organization providing education|Rock The JVM
