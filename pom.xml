@@ -141,10 +141,26 @@
                             <attributes>
                                 <source-highlighter>rouge</source-highlighter>
                                 <icons>font</icons>
+                                <imagesdir>./assets/img</imagesdir>
                                 <pagenums/>
                                 <toc/>
                                 <idprefix/>
                                 <idseparator>-</idseparator>
+                            </attributes>
+                        </configuration>
+                    </execution>
+
+                    <execution>
+                        <id>asciidoc-to-docbook</id>
+                        <phase>generate-resources</phase>
+                        <goals>
+                            <goal>process-asciidoc</goal>
+                        </goals>
+                        <configuration>
+                            <backend>docbook</backend>
+                            <doctype>book</doctype>
+                            <attributes>
+                                <imagesdir>images</imagesdir>
                             </attributes>
                         </configuration>
                     </execution>
